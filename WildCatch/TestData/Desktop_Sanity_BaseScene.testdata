@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Test>
+  <Key clientID="50300" loginName="Zen_7rwgm3f" moduleID="10763"/>
+  <Slot>
+    <ReelSet name="Normal Reels 1 - Start">
+      <ReelPos indexes="0,6,29,21,12" symbols="Basket,Basket,Basket,Basket,Basket"/>
+      <ReelPos indexes="29,17,3,28,41" symbols="Woman,Woman,Woman,Woman,Woman"/>
+       <ReelPos indexes="33,8,12,17,26" symbols="Man,Man,Man,Man,Man"/>
+      <ReelPos indexes="63,103,71,67,8" symbols="FreeSpins,FreeSpins,FreeSpins,FreeSpins,FreeSpins"/>
+
+	<ReelPos indexes="0,6,29,21,12" symbols="Basket,Basket,Basket,Basket,Basket"/>
+      <ReelPos indexes="29,17,3,28,41" symbols="Woman,Woman,Woman,Woman,Woman"/>
+       <ReelPos indexes="33,8,12,17,26" symbols="Man,Man,Man,Man,Man"/>
+    </ReelSet>
+  </Slot>
+</Test>

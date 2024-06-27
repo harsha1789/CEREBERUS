@@ -1,0 +1,60 @@
+13:00:34,325 DEBUG automationLogger<strong>{1}</strong>:104 - Execution Started for MOdule :: Regression
+13:00:34,416 DEBUG automationLogger<strong>{1}</strong>:125 - Execution Started for script :: Desktop_Regression_Language_Verification_BaseScene
+13:00:37,412 DEBUG automationLogger<strong>{1}</strong>:215 - Desktop_Regression_Language_Verification_BaseSceneExecution Started in Chrome 
+13:00:37,447 DEBUG automationLogger<strong>{1}</strong>:225 - Desktop_Regression_Language_Verification_BaseSceneExecution Started in Chrome in windows
+13:00:43,501 DEBUG automationLogger<strong>{1}</strong>:288 - Starting time::29/08/2019 13:00:34
+13:01:00,263 DEBUG automationLogger<strong>{1}</strong>:615 - navigated the url and  waiting for five_Reel_slot to be visible
+13:02:21,144 DEBUG automationLogger<strong>{1}</strong>:620 - Inside Microgaming Skin fuctionality
+13:02:31,912 DEBUG automationLogger<strong>{1}</strong>:635 - Clicked on game and waiting for Login button to visible
+13:02:37,145 DEBUG automationLogger<strong>{1}</strong>:352 - Clicked on Login button and waiting for game to load
+13:02:59,050 DEBUG automationLogger<strong>{1}</strong>:356 - Game has loaded successfully 
+13:03:04,298 DEBUG automationLogger<strong>{1}</strong>:788 - Clicked on intro screen of game
+13:03:07,667 DEBUG automationLogger<strong>{1}</strong>:57 - Clicked on spin button
+13:03:10,217 DEBUG automationLogger<strong>{1}</strong>:59 - Waiting reels to stop
+13:03:10,217 DEBUG automationLogger<strong>{1}</strong>:1030 - Waiting for  screen to come
+13:03:10,487 DEBUG automationLogger<strong>{1}</strong>:1039 - Jackpot summary screen displayed
+13:03:11,817 DEBUG automationLogger<strong>{1}</strong>:1775 - Clicked on win history button
+13:03:16,841 DEBUG automationLogger<strong>{1}</strong>:1792 - Closed on win history button
+13:03:27,207 DEBUG automationLogger<strong>{1}</strong>:1186 - Clicked on total bet button
+13:03:30,514 DEBUG automationLogger<strong>{1}</strong>:1212 - Clicked on screen to close totalBet overlay
+13:03:32,223 DEBUG automationLogger<strong>{1}</strong>:737 - Clicked on autoplay
+13:03:38,002 DEBUG automationLogger<strong>{1}</strong>:1802 - clicked on screen to close overlay
+13:03:38,761 DEBUG automationLogger<strong>{1}</strong>:1230 - Clicked on menu button  to open
+13:03:42,027 DEBUG automationLogger<strong>{1}</strong>:1212 - Clicked on screen to close totalBet overlay
+13:03:42,129 DEBUG automationLogger<strong>{1}</strong>:1249 - Clicked on screen to close menu overlay
+13:03:42,329 DEBUG automationLogger<strong>{1}</strong>:1423 - Clicked on settings button to open
+13:03:47,582 DEBUG automationLogger<strong>{1}</strong>:1212 - Clicked on screen to close totalBet overlay
+13:03:47,685 DEBUG automationLogger<strong>{1}</strong>:1444 - Clicked on screen to close settings overlay
+13:03:48,629 DEBUG automationLogger<strong>{1}</strong>:1482 - Clicked on paytable icon to open 
+13:03:52,752 DEBUG automationLogger<strong>{1}</strong>:1492 - Scrolling the paytable page and taking screenshots
+13:03:54,995 DEBUG automationLogger<strong>{1}</strong>:1492 - Scrolling the paytable page and taking screenshots
+13:03:57,698 DEBUG automationLogger<strong>{1}</strong>:1492 - Scrolling the paytable page and taking screenshots
+13:04:00,176 DEBUG automationLogger<strong>{1}</strong>:1492 - Scrolling the paytable page and taking screenshots
+13:04:02,583 DEBUG automationLogger<strong>{1}</strong>:1492 - Scrolling the paytable page and taking screenshots
+13:04:07,979 DEBUG automationLogger<strong>{1}</strong>:1461 - Closed the paytable page
+13:04:34,672 DEBUG automationLogger<strong>{1}</strong>:788 - Clicked on intro screen of game
+13:04:37,727 DEBUG automationLogger<strong>{1}</strong>:57 - Clicked on spin button
+13:04:41,132 DEBUG automationLogger<strong>{1}</strong>:59 - Waiting reels to stop
+13:04:41,132 DEBUG automationLogger<strong>{1}</strong>:1030 - Waiting for  screen to come
+13:04:41,292 DEBUG automationLogger<strong>{1}</strong>:1039 - Jackpot summary screen displayed
+13:04:42,625 DEBUG automationLogger<strong>{1}</strong>:1775 - Clicked on win history button
+13:04:47,257 DEBUG automationLogger<strong>{1}</strong>:1792 - Closed on win history button
+13:04:57,534 DEBUG automationLogger<strong>{1}</strong>:1186 - Clicked on total bet button
+13:05:01,211 DEBUG automationLogger<strong>{1}</strong>:1212 - Clicked on screen to close totalBet overlay
+13:05:02,754 DEBUG automationLogger<strong>{1}</strong>:737 - Clicked on autoplay
+13:05:08,492 DEBUG automationLogger<strong>{1}</strong>:1802 - clicked on screen to close overlay
+13:05:09,119 DEBUG automationLogger<strong>{1}</strong>:1230 - Clicked on menu button  to open
+13:05:13,104 DEBUG automationLogger<strong>{1}</strong>:1212 - Clicked on screen to close totalBet overlay
+13:05:13,205 DEBUG automationLogger<strong>{1}</strong>:1249 - Clicked on screen to close menu overlay
+13:05:13,335 DEBUG automationLogger<strong>{1}</strong>:1423 - Clicked on settings button to open
+13:05:18,861 DEBUG automationLogger<strong>{1}</strong>:1212 - Clicked on screen to close totalBet overlay
+13:05:18,963 DEBUG automationLogger<strong>{1}</strong>:1444 - Clicked on screen to close settings overlay
+13:05:19,735 DEBUG automationLogger<strong>{1}</strong>:1482 - Clicked on paytable icon to open 
+13:05:24,411 DEBUG automationLogger<strong>{1}</strong>:1492 - Scrolling the paytable page and taking screenshots
+13:05:27,353 DEBUG automationLogger<strong>{1}</strong>:1492 - Scrolling the paytable page and taking screenshots
+13:05:30,389 DEBUG automationLogger<strong>{1}</strong>:1492 - Scrolling the paytable page and taking screenshots
+13:05:33,543 DEBUG automationLogger<strong>{1}</strong>:1492 - Scrolling the paytable page and taking screenshots
+13:05:36,560 DEBUG automationLogger<strong>{1}</strong>:1492 - Scrolling the paytable page and taking screenshots
+13:05:39,656 DEBUG automationLogger<strong>{1}</strong>:1492 - Scrolling the paytable page and taking screenshots
+13:05:45,594 DEBUG automationLogger<strong>{1}</strong>:1461 - Closed the paytable page
+13:05:52,211  INFO automationLogger<strong>{1}</strong>:339 - About to complete script execution as no script is marked as run in Regression.xml
