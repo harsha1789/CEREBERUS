@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><!-- User ID 	 : ZENDER\SC55391--><!-- Date 	 : 21-Jan-2020 17:36:30--><Test>
+  <Key clientID="50300" loginName="Zen_hfhorf6" moduleID="15066"/>
+  <Slot>
+    <ReelSet name="Normal Reels">
+ <ReelPos indexes="2,4,4,4,5" symbols="Nine,Ten,Ace,Ten,Nine"/>
+ <ReelPos indexes="5,33,49,11,7" symbols="Ten,Ten,Ten,King,Jack"/>
+    </ReelSet>
+  </Slot>
+</Test>

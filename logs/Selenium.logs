@@ -1,0 +1,31 @@
+15:29:56,522 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "GameConfig/Config/TestNGMobileXMLTemplate.ftl"("en_US", Cp1252, parsed); will try to load it.
+15:29:56,563 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("GameConfig/Config/TestNGMobileXMLTemplate_en_US.ftl"): Not found
+15:29:56,564 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("GameConfig/Config/TestNGMobileXMLTemplate_en.ftl"): Not found
+15:29:56,572 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("GameConfig/Config/TestNGMobileXMLTemplate.ftl"): Found
+15:29:56,573 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "GameConfig/Config/TestNGMobileXMLTemplate.ftl"("en_US", Cp1252, parsed) from "D:\\ZAFPlayNext\\GameConfig\\Config\\TestNGMobileXMLTemplate.ftl"
+15:29:56,865 DEBUG com.zensar.automation.executors.OBATRegressionSuite<strong>{1}</strong>:88 - Input parameters:
+15:29:56,865 DEBUG com.zensar.automation.executors.OBATRegressionSuite<strong>{1}</strong>:89 - platform: Mobile
+15:29:56,866 DEBUG com.zensar.automation.executors.OBATRegressionSuite<strong>{1}</strong>:90 - gamename: BreakAwayLuckyWilds
+15:29:56,866 DEBUG com.zensar.automation.executors.OBATRegressionSuite<strong>{1}</strong>:91 - envName: “mobile32”
+15:29:56,970  INFO com.zensar.automation.library.TestPropReader<strong>{1}</strong>:103 - Loading all properties in progress..
+15:29:56,970  INFO com.zensar.automation.framework.library.PropertyReader<strong>{1}</strong>:65 - Loading default properties file...
+15:29:56,992 DEBUG com.zensar.automation.framework.library.PropertyReader<strong>{1}</strong>:85 - Default properties file path=.\Default.properties
+15:29:57,043  INFO com.zensar.automation.framework.library.PropertyReader<strong>{1}</strong>:98 - loading completed for Default properties
+15:29:57,043  INFO com.zensar.automation.framework.library.PropertyReader<strong>{1}</strong>:112 - Loading Test Environment properties file..
+15:29:57,077 DEBUG com.zensar.automation.framework.library.PropertyReader<strong>{1}</strong>:116 - Test Environment properties file path=./GameConfig\Config\TestEnv.properties
+15:29:57,079  INFO com.zensar.automation.framework.library.PropertyReader<strong>{1}</strong>:145 - loading completed for Test Environment properties
+15:29:57,235  INFO com.zensar.automation.framework.driver.MobileDriver<strong>{1}</strong>:97 - Automation Execution stared for mobile....
+15:29:57,239  INFO com.zensar.automation.framework.driver.MobileDriver<strong>{1}</strong>:120 - Selenium Grid Url :: http://10.120.87.248:4444/wd/hub
+15:29:57,241  INFO com.zensar.automation.framework.library.Global<strong>{1}</strong>:136 - Setting nessary path....
+15:29:57,404  INFO com.zensar.automation.framework.driver.MobileDriver<strong>{1}</strong>:161 - Run flag found true...
+15:29:57,431 DEBUG com.zensar.automation.framework.driver.MobileDriver<strong>{1}</strong>:226 - randomWait :: 17092
+15:30:27,385  INFO com.zensar.automation.framework.driver.MobileDriver<strong>{1}</strong>:234 - Driver object for mobile...
+15:30:31,613 DEBUG com.zensar.automation.framework.driver.MobileDriver<strong>{1}</strong>:290 - Test case to run :Modules.Regression.TestScript.Mobile_OBAT_Regression_Image_PlaydotNextTest
+15:30:31,614 DEBUG com.zensar.automation.framework.driver.MobileDriver<strong>{1}</strong>:300 - 09/09/2022 15:29:57
+15:30:32,160 DEBUG com.zensar.automation.framework.driver.MobileDriver<strong>{1}</strong>:323 - Script Parameters Configured
+15:30:32,161  INFO com.zensar.automation.framework.driver.MobileDriver<strong>{1}</strong>:327 - Calling invoke method
+15:30:32,353  INFO Modules.Regression.FunctionLibrary.CFNLibrary_Mobile<strong>{1}</strong>:144 - In mobile super class
+15:30:32,447  INFO Modules.Regression.FunctionLibrary.CFNLibrary_Mobile<strong>{1}</strong>:159 - Read Excel file
+15:30:33,037  INFO Modules.Regression.FunctionLibrary.CFNLibrary_Mobile<strong>{1}</strong>:162 - Total row 17
+15:30:34,768 DEBUG com.zensar.automation.framework.api.ImageMobileAPI<strong>{1}</strong>:80 - Connected device screenWidth=1081
+Connected device scrrenHeight=2220

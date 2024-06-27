@@ -1,0 +1,87 @@
+
+[INFO] 2024-02-15 17:05:14,922 [main]  com.zensar.automation.library.TestPropReader loadAllProperties - Loading all properties in progress..
+[INFO] 2024-02-15 17:05:14,924 [main]  com.zensar.automation.framework.library.PropertyReader loadDefaultProperties - Loading default properties file...
+[DEBUG] 2024-02-15 17:05:14,925 [main]  com.zensar.automation.framework.library.PropertyReader loadDefaultProperties - Default properties file path=.\Default.properties
+[INFO] 2024-02-15 17:05:14,926 [main]  com.zensar.automation.framework.library.PropertyReader loadDefaultProperties - loading completed for Default properties
+[INFO] 2024-02-15 17:05:14,926 [main]  com.zensar.automation.framework.library.PropertyReader loadGameProperties - Loading Test Environment properties file..
+[DEBUG] 2024-02-15 17:05:14,928 [main]  com.zensar.automation.framework.library.PropertyReader loadGameProperties - Test Environment properties file path=./BookOfGoddessMapleMoolah\Config\TestEnv.properties
+[INFO] 2024-02-15 17:05:14,929 [main]  com.zensar.automation.framework.library.PropertyReader loadGameProperties - loading completed for Test Environment properties
+[INFO] 2024-02-15 17:05:15,270 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - Automation Execution stared for mobile....
+[INFO] 2024-02-15 17:05:15,270 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - Automation Execution stared for mobile....
+[INFO] 2024-02-15 17:05:15,274 [TestNG-tests-2]  com.zensar.automation.framework.library.Global cfnRootPath - Setting nessary path....
+[INFO] 2024-02-15 17:05:15,274 [TestNG-tests-1]  com.zensar.automation.framework.library.Global cfnRootPath - Setting nessary path....
+[INFO] 2024-02-15 17:05:15,449 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2024-02-15 17:05:15,449 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2024-02-15 17:05:15,451 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2024-02-15 17:05:15,451 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2024-02-15 17:05:15,452 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2024-02-15 17:05:15,452 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2024-02-15 17:05:15,454 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - Run flag found true...
+[INFO] 2024-02-15 17:05:15,454 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - Run flag found true...
+[DEBUG] 2024-02-15 17:05:15,472 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - randomWait :: 16181
+[DEBUG] 2024-02-15 17:05:18,477 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - randomWait :: 15083
+[INFO] 2024-02-15 17:05:44,961 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - Driver object for mobile...
+[DEBUG] 2024-02-15 17:05:49,158 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - Test case to run :Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext
+[DEBUG] 2024-02-15 17:05:49,158 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - 15/02/2024 17:05:15
+[DEBUG] 2024-02-15 17:05:49,165 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - Script Parameters Configured
+[INFO] 2024-02-15 17:05:49,166 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - Calling invoke method
+[INFO] 2024-02-15 17:05:49,174 [TestNG-tests-1]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - FrameworkPlayNext
+[DEBUG] 2024-02-15 17:05:49,187 [TestNG-tests-1]  Modules.Regression.FunctionLibrary.factory.MobileFunctionLibraryFactory getFunctionLibrary - Framework received ::PlayNext
+[INFO] 2024-02-15 17:05:49,196 [TestNG-tests-1]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile <init> - In mobile super class
+[INFO] 2024-02-15 17:05:49,199 [TestNG-tests-1]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile <init> - Read Excel file
+[INFO] 2024-02-15 17:05:49,214 [TestNG-tests-1]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile <init> - Total row 271
+[DEBUG] 2024-02-15 17:05:53,341 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - Test case to run :Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext
+[DEBUG] 2024-02-15 17:05:53,341 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - 15/02/2024 17:05:15
+[DEBUG] 2024-02-15 17:05:53,342 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - Script Parameters Configured
+[INFO] 2024-02-15 17:05:53,342 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - Calling invoke method
+[INFO] 2024-02-15 17:05:53,343 [TestNG-tests-2]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - FrameworkPlayNext
+[DEBUG] 2024-02-15 17:05:53,343 [TestNG-tests-2]  Modules.Regression.FunctionLibrary.factory.MobileFunctionLibraryFactory getFunctionLibrary - Framework received ::PlayNext
+[INFO] 2024-02-15 17:05:53,344 [TestNG-tests-2]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile <init> - In mobile super class
+[INFO] 2024-02-15 17:05:53,344 [TestNG-tests-2]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile <init> - Read Excel file
+[INFO] 2024-02-15 17:05:53,347 [TestNG-tests-2]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile <init> - Total row 271
+[DEBUG] 2024-02-15 17:05:53,840 [TestNG-tests-2]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - context going to set in IOS is:WEBVIEW_2826.1
+[DEBUG] 2024-02-15 17:06:06,715 [TestNG-tests-2]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile funcFullScreen - tapped on full screen overlay
+[DEBUG] 2024-02-15 17:06:18,338 [TestNG-tests-1]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile funcFullScreen - tapped on full screen overlay
+[DEBUG] 2024-02-15 17:06:19,037 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI <init> - context going to set in IOS is:WEBVIEW_2826.1
+[DEBUG] 2024-02-15 17:06:19,278 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI <init> - Connected device screenWidth=1284
+Connected device scrrenHeight=2778
+[DEBUG] 2024-02-15 17:06:19,348 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI <init> - 1.2513514
+[DEBUG] 2024-02-15 17:06:35,770 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2024-02-15 17:06:36,250 [TestNG-tests-1]  com.zensar.automation.framework.api.ImageMobileAPI <init> - Connected device screenWidth=1081
+Connected device scrrenHeight=2401
+[DEBUG] 2024-02-15 17:06:36,309 [TestNG-tests-1]  com.zensar.automation.framework.api.ImageMobileAPI <init> - 1.0815315
+[DEBUG] 2024-02-15 17:06:53,331 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2024-02-15 17:06:54,034 [TestNG-tests-1]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2024-02-15 17:07:08,961 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2024-02-15 17:07:12,477 [TestNG-tests-2]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - context going to set in IOS is:WEBVIEW_2826.1
+[DEBUG] 2024-02-15 17:07:16,253 [TestNG-tests-1]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2024-02-15 17:07:26,147 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2024-02-15 17:07:35,083 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2024-02-15 17:07:35,573 [TestNG-tests-1]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2024-02-15 17:08:12,417 [TestNG-tests-1]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2024-02-15 17:08:15,831 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2024-02-15 17:08:20,374 [TestNG-tests-1]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2024-02-15 17:08:30,517 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2024-02-15 17:08:40,496 [TestNG-tests-1]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2024-02-15 17:08:41,172 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2024-02-15 17:08:56,078 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2024-02-15 17:09:00,342 [TestNG-tests-1]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2024-02-15 17:09:14,843 [TestNG-tests-1]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2024-02-15 17:09:15,086 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2024-02-15 17:09:34,780 [TestNG-tests-1]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2024-02-15 17:09:40,230 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2024-02-15 17:09:55,763 [TestNG-tests-1]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2024-02-15 17:09:57,567 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2024-02-15 17:10:02,502 [TestNG-tests-2]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - context going to set in IOS is:WEBVIEW_2826.1
+[DEBUG] 2024-02-15 17:10:09,018 [TestNG-tests-2]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - context going to set in IOS is:WEBVIEW_2826.1
+[DEBUG] 2024-02-15 17:10:21,427 [TestNG-tests-1]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2024-02-15 17:10:22,696 [TestNG-tests-2]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile funcFullScreen - tapped on full screen overlay
+[DEBUG] 2024-02-15 17:10:33,593 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI <init> - context going to set in IOS is:WEBVIEW_2826.1
+[DEBUG] 2024-02-15 17:10:33,762 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI <init> - Connected device screenWidth=1284
+Connected device scrrenHeight=2778
+[DEBUG] 2024-02-15 17:10:33,812 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI <init> - 1.2513514
+[DEBUG] 2024-02-15 17:10:36,784 [TestNG-tests-1]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2024-02-15 17:10:57,730 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI click - NFDButton.PNG is  found going to click..
+[DEBUG] 2024-02-15 17:11:01,334 [TestNG-tests-1]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile checkpagenavigation - Navigation URL is ::  https://mobile-app1-gtp85.installprogram.eu/htmlGames/3.55.0/launch/bookOfGoddessMapleMoolah_EvrGreen_224_2_43_53/mgs/bookOfGoddessMapleMoolah?displayName=Book+of+Goddess+Maple+Moolah&moduleId=100487&clientId=50300&gamePath=%2Fmgs%2FbookOfGoddessMapleMoolah&clientTypeId=70&gameId=bookOfGoddessMapleMoolahDesktop&languageCode=en&productId=5007&market=dotcom&brand=islandparadise&loginType=InterimUPE&returnUrl=https%3A%2F%2Fmobile-app1-gtp85.installprogram.eu%2Flobby%2Fen%2FIslandParadise%2Fgames%2F&routerEndPoints=&currencyFormat=&isPracticePlay=False&username=Major&password=test1234%24&formFactor=desktop
+[DEBUG] 2024-02-15 17:11:08,791 [TestNG-tests-1]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile waitForElement - Waiting for Element before click
+[DEBUG] 2024-02-15 17:11:40,207 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI click - QuickSpinOff.PNG is  found going to click..

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><!-- User ID      : ZENDER\sj46487--><!-- Date      : 19-May-2021 15:30:47--><Test>
+  <Key clientID="40300" loginName="Zen_abihleg" moduleID="15066"/>
+  <Slot>
+      <ReelSet name="Normal Reels">
+      <ReelPos indexes="5,4,5,14,10" symbols="Ten,Ten,Ten,Jack,Queen"/>
+      <ReelPos indexes="0,0,0,0,0" symbols="ImmortalRomance,ImmortalRomance,ImmortalRomance,ImmortalRomance,ImmortalRomance"/>
+      <ReelPos indexes="14,55,7,1,1" symbols="Scatter,Scatter,Scatter,Nine,Sarah"/>
+      <ReelPos indexes="20,21,8,47,13" symbols="Michael,Troy,Jack,Scatter,Ten"/>
+      
+    </ReelSet>
+    <ReelSet name="Amber Reels">
+     <ReelPos indexes="0,0,0,0,0" symbols="ImmortalRomance,ImmortalRomance,ImmortalRomance,ImmortalRomance,ImmortalRomance"/>
+     <ReelPos indexes="3,11,2,4,0" symbols="Queen,Nine,Nine,Ten,ImmortalRomance"/>
+     <ReelPos indexes="3,11,2,4,0" symbols="Queen,Nine,Nine,Ten,ImmortalRomance"/>
+     <ReelPos indexes="3,11,2,4,0" symbols="Queen,Nine,Nine,Ten,ImmortalRomance"/>
+     <ReelPos indexes="3,11,2,4,0" symbols="Queen,Nine,Nine,Ten,ImmortalRomance"/>
+     <ReelPos indexes="3,11,2,4,0" symbols="Queen,Nine,Nine,Ten,ImmortalRomance"/>
+     <ReelPos indexes="3,11,2,4,0" symbols="Queen,Nine,Nine,Ten,ImmortalRomance"/>
+     <ReelPos indexes="3,11,2,4,0" symbols="Queen,Nine,Nine,Ten,ImmortalRomance"/>
+     <ReelPos indexes="3,11,2,4,0" symbols="Queen,Nine,Nine,Ten,ImmortalRomance"/>
+     <ReelPos indexes="3,11,2,4,0" symbols="Queen,Nine,Nine,Ten,ImmortalRomance"/>
+     <ReelPos indexes="3,11,2,4,0" symbols="Queen,Nine,Nine,Ten,ImmortalRomance"/>
+     <ReelPos indexes="3,11,2,4,0" symbols="Queen,Nine,Nine,Ten,ImmortalRomance"/>
+     <ReelPos indexes="3,11,2,4,0" symbols="Queen,Nine,Nine,Ten,ImmortalRomance"/>
+     <ReelPos indexes="3,11,2,4,0" symbols="Queen,Nine,Nine,Ten,ImmortalRomance"/>
+    </ReelSet>
+     </Slot>
+</Test>

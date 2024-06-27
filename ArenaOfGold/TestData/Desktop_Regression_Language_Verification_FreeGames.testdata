@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Test>
+  <Key clientID="50300" loginName="Zen_xd8hzro" moduleID="10732"/>
+  <Slot>
+    <ReelSet name="Normal Reels">
+      <ReelPos indexes="2,9,5,14,1" symbols="L2,L2,L2,L2,H2"/>
+      <ReelPos indexes="3,10,40,21,65" symbols="H1,H1,H1,H1,H1"/>
+      <ReelPos indexes="3,10,40,21,65" symbols="H1,H1,H1,H1,H1"/>
+    </ReelSet>
+  </Slot>
+</Test>

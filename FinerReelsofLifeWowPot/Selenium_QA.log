@@ -1,0 +1,142 @@
+[ERROR] 2023-06-06 15:09:40,098 [TestNG-tests-1]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - Exception occur while processing currency
+org.openqa.selenium.UnsupportedCommandException: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50Z0152', ip: '10.216.65.95', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, automationName: UIAutomator2, browserName: Chrome, chromeOptions: {w3c: false}, chromedriverExecutableDir: /root/chromedrivers/, databaseEnabled: false, desired: {automationName: UIAutomator2, browserName: Chrome, chromeOptions: {w3c: false}, chromedriverExecutableDir: /root/chromedrivers/, deviceName: R5CR213V9ZM, devicefarm:authToken: 3ffac251a8af40d2ac890e5c8de..., devicefarm:deviceTimeout: 25200000, newCommandTimeout: 600000, platformName: android, platformVersion: 12, server:CONFIG_UUID: 99fb0deb-36dd-44af-a0d7-6f8..., udid: R5CR213V9ZM}, deviceApiLevel: 31, deviceManufacturer: samsung, deviceModel: SM-G998B, deviceName: R5CR213V9ZM, deviceScreenDensity: 450, deviceScreenSize: 1080x2400, deviceUDID: R5CR213V9ZM, devicefarm:authToken: 3ffac251a8af40d2ac890e5c8de..., devicefarm:deviceTimeout: 25200000, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 600000, pixelRatio: 2.8125, platform: LINUX, platformName: Android, platformVersion: 12, server:CONFIG_UUID: 99fb0deb-36dd-44af-a0d7-6f8..., statBarHeight: 74, takesScreenshot: true, udid: R5CR213V9ZM, viewportRect: {height: 2116, left: 0, top: 74, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 626cd807-d61c-4708-970d-1d022af37408
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:45)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.refresh(RemoteWebDriver.java:865)
+	at Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext.script(Mobile_Sanity_UI_PlayNext.java:261)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.zensar.automation.framework.driver.MobileDriver.test(MobileDriver.java:329)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[DEBUG] 2023-06-06 15:09:42,712 [TestNG-tests-1]  com.zensar.automation.library.CommonUtil randomStringgenerator - Random String has created for username
+[DEBUG] 2023-06-06 15:09:42,713 [TestNG-tests-1]  com.zensar.automation.api.RestAPILibrary createUserInAxiom - Currency ISO Code:GBP
+[INFO] 2023-06-06 15:09:42,717 [TestNG-tests-1]  com.zensar.automation.api.RestAPILibrary createUserInAxiom - createUser request bodyokhttp3.RequestBody$2@5548daab
+[DEBUG] 2023-06-06 15:09:43,928 [TestNG-tests-1]  com.zensar.automation.api.RestAPILibrary verify - : hostname: axiomcore-app1-gtp86.installprogram.eu
+[INFO] 2023-06-06 15:09:45,981 [TestNG-tests-1]  com.zensar.automation.api.RestAPILibrary createUserInAxiom - Response status true
+[INFO] 2023-06-06 15:09:45,981 [TestNG-tests-1]  com.zensar.automation.api.RestAPILibrary createUserInAxiom - Response code 200
+[INFO] 2023-06-06 15:09:45,983 [TestNG-tests-1]  com.zensar.automation.api.RestAPILibrary createUserInAxiom - User created on axiom environment successfully
+[DEBUG] 2023-06-06 15:09:45,991 [TestNG-tests-1]  com.zensar.automation.framework.utils.Util changePlayerName - Changing the player name in xml with username created randomly
+[DEBUG] 2023-06-06 15:09:47,193 [TestNG-tests-1]  com.zensar.automation.api.RestAPILibrary verify - : hostname: axiomcore-app1-gtp86.installprogram.eu
+[INFO] 2023-06-06 15:09:47,525 [TestNG-tests-1]  com.zensar.automation.api.RestAPILibrary copyTestData - Testdat peaste on axiom environment successfully
+[DEBUG] 2023-06-06 15:09:50,526 [TestNG-tests-1]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - Updating the balance
+[DEBUG] 2023-06-06 15:09:51,774 [TestNG-tests-1]  com.zensar.automation.api.RestAPILibrary verify - : hostname: axiomcore-app1-gtp86.installprogram.eu
+[INFO] 2023-06-06 15:09:52,118 [TestNG-tests-1]  com.zensar.automation.api.RestAPILibrary getUserMetaDataFromAxiom - User metadata store for UserNmae=Zen_nogpzy6
+[DEBUG] 2023-06-06 15:09:53,320 [TestNG-tests-1]  com.zensar.automation.api.RestAPILibrary verify - : hostname: axiomcore-app1-gtp86.installprogram.eu
+[DEBUG] 2023-06-06 15:09:53,929 [TestNG-tests-1]  com.zensar.automation.api.RestAPILibrary updateBalanceUsingAPI - response code::200
+[INFO] 2023-06-06 15:09:53,929 [TestNG-tests-1]  com.zensar.automation.api.RestAPILibrary updateBalanceUsingAPI - User balance updated with Amount:10000000
+[DEBUG] 2023-06-06 15:10:16,666 [TestNG-tests-1]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile_Force funcFullScreen - tapped on full screen overlay
+[DEBUG] 2023-06-06 15:10:25,618 [TestNG-tests-1]  com.zensar.automation.framework.api.ImageMobileAPI <init> - Connected device screenWidth=1080
+Connected device scrrenHeight=2325
+[DEBUG] 2023-06-06 15:10:26,231 [TestNG-tests-1]  com.zensar.automation.framework.api.ImageMobileAPI <init> - 1.0472972
+[DEBUG] 2023-06-06 15:10:36,291 [TestNG-tests-1]  com.zensar.automation.framework.api.ImageMobileAPI click - NFDButton.PNG is  found going to click..
+[DEBUG] 2023-06-06 15:10:54,666 [TestNG-tests-1]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile_Force funcFullScreen - tapped on full screen overlay
+[DEBUG] 2023-06-06 15:11:05,956 [TestNG-tests-1]  com.zensar.automation.framework.api.ImageMobileAPI click - NFDButton.PNG is  found going to click..
+[DEBUG] 2023-06-06 15:11:32,731 [TestNG-tests-1]  com.zensar.automation.framework.api.ImageMobileAPI click - Autoplay.PNG is  found going to click..
+[ERROR] 2023-06-06 15:11:52,669 [TestNG-tests-1]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - Exception occur while processing currency
+org.openqa.selenium.UnsupportedCommandException: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50Z0152', ip: '10.216.65.95', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.google.android.apps.chr..., appPackage: com.android.chrome, automationName: UIAutomator2, browserName: Chrome, chromeOptions: {w3c: false}, chromedriverExecutableDir: /root/chromedrivers/, databaseEnabled: false, desired: {automationName: UIAutomator2, browserName: Chrome, chromeOptions: {w3c: false}, chromedriverExecutableDir: /root/chromedrivers/, deviceName: R5CR213V9ZM, devicefarm:authToken: 3ffac251a8af40d2ac890e5c8de..., devicefarm:deviceTimeout: 25200000, newCommandTimeout: 600000, platformName: android, platformVersion: 12, server:CONFIG_UUID: 99fb0deb-36dd-44af-a0d7-6f8..., udid: R5CR213V9ZM}, deviceApiLevel: 31, deviceManufacturer: samsung, deviceModel: SM-G998B, deviceName: R5CR213V9ZM, deviceScreenDensity: 450, deviceScreenSize: 1080x2400, deviceUDID: R5CR213V9ZM, devicefarm:authToken: 3ffac251a8af40d2ac890e5c8de..., devicefarm:deviceTimeout: 25200000, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 600000, pixelRatio: 2.8125, platform: LINUX, platformName: Android, platformVersion: 12, server:CONFIG_UUID: 99fb0deb-36dd-44af-a0d7-6f8..., statBarHeight: 74, takesScreenshot: true, udid: R5CR213V9ZM, viewportRect: {height: 2116, left: 0, top: 74, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 626cd807-d61c-4708-970d-1d022af37408
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:45)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.refresh(RemoteWebDriver.java:865)
+	at Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext.script(Mobile_Sanity_UI_PlayNext.java:261)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.zensar.automation.framework.driver.MobileDriver.test(MobileDriver.java:329)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[DEBUG] 2023-06-06 15:11:56,103 [TestNG-tests-1]  com.zensar.automation.api.RestAPILibrary verify - : hostname: axiomcore-app1-gtp86.installprogram.eu
+[INFO] 2023-06-06 15:11:56,423 [TestNG-tests-1]  com.zensar.automation.api.RestAPILibrary deleteAxiomTestDataFiles - FinerReelsOfLifeWowpot.veyrongame_100488_40300_Zen_nrei8jn.testdata  deleted from Environment gtp86
+[INFO] 2023-06-06 15:11:56,742 [TestNG-tests-1]  com.zensar.automation.api.RestAPILibrary deleteAxiomTestDataFiles - FinerReelsOfLifeWowpot.veyrongame_100488_40300_Zen_nogpzy6.testdata  deleted from Environment gtp86
+[INFO] 2023-06-06 15:11:58,350 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - Excution started for: Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext
+[INFO] 2023-06-06 15:11:58,353 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-06-06 15:11:58,357 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-06-06 15:11:58,360 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-06-06 15:11:58,363 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-06-06 15:11:58,366 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-06-06 15:11:58,369 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-06-06 15:11:58,371 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-06-06 15:11:58,374 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-06-06 15:11:58,378 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-06-06 15:11:58,380 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-06-06 15:11:58,383 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-06-06 15:11:58,499 [main]  com.zensar.automation.framework.driver.MobileDriver afterSuite - Device has ReleasedR5CR213V9ZM

@@ -1,0 +1,739 @@
+[INFO] 2023-05-19 15:37:34,756 [main]  com.zensar.automation.library.TestPropReader loadAllProperties - Loading all properties in progress..
+[INFO] 2023-05-19 15:37:34,761 [main]  com.zensar.automation.framework.library.PropertyReader loadDefaultProperties - Loading default properties file...
+[DEBUG] 2023-05-19 15:37:34,762 [main]  com.zensar.automation.framework.library.PropertyReader loadDefaultProperties - Default properties file path=.\Default.properties
+[INFO] 2023-05-19 15:37:34,763 [main]  com.zensar.automation.framework.library.PropertyReader loadDefaultProperties - loading completed for Default properties
+[INFO] 2023-05-19 15:37:34,763 [main]  com.zensar.automation.framework.library.PropertyReader loadGameProperties - Loading Test Environment properties file..
+[DEBUG] 2023-05-19 15:37:34,765 [main]  com.zensar.automation.framework.library.PropertyReader loadGameProperties - Test Environment properties file path=./ArenaOfGold\Config\TestEnv.properties
+[INFO] 2023-05-19 15:37:34,766 [main]  com.zensar.automation.framework.library.PropertyReader loadGameProperties - loading completed for Test Environment properties
+[INFO] 2023-05-19 15:37:35,040 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - Automation Execution stared for mobile....
+[INFO] 2023-05-19 15:37:35,040 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - Automation Execution stared for mobile....
+[INFO] 2023-05-19 15:37:35,040 [TestNG-tests-3]  com.zensar.automation.framework.driver.MobileDriver test - Automation Execution stared for mobile....
+[INFO] 2023-05-19 15:37:35,042 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - Selenium Grid Url :: https://devicefarm.gametechnology.io/wd/hub
+[INFO] 2023-05-19 15:37:35,042 [TestNG-tests-3]  com.zensar.automation.framework.driver.MobileDriver test - Selenium Grid Url :: https://devicefarm.gametechnology.io/wd/hub
+[INFO] 2023-05-19 15:37:35,042 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - Selenium Grid Url :: https://devicefarm.gametechnology.io/wd/hub
+[INFO] 2023-05-19 15:37:35,043 [TestNG-tests-2]  com.zensar.automation.framework.library.Global cfnRootPath - Setting nessary path....
+[INFO] 2023-05-19 15:37:35,043 [TestNG-tests-3]  com.zensar.automation.framework.library.Global cfnRootPath - Setting nessary path....
+[INFO] 2023-05-19 15:37:35,043 [TestNG-tests-1]  com.zensar.automation.framework.library.Global cfnRootPath - Setting nessary path....
+[INFO] 2023-05-19 15:37:35,177 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-05-19 15:37:35,177 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-05-19 15:37:35,177 [TestNG-tests-3]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-05-19 15:37:35,179 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-05-19 15:37:35,179 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-05-19 15:37:35,179 [TestNG-tests-3]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-05-19 15:37:35,184 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-05-19 15:37:35,184 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-05-19 15:37:35,188 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - Run flag found true...
+[INFO] 2023-05-19 15:37:35,189 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - Run flag found true...
+[INFO] 2023-05-19 15:37:35,189 [TestNG-tests-3]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-05-19 15:37:35,191 [TestNG-tests-3]  com.zensar.automation.framework.driver.MobileDriver test - Run flag found true...
+[DEBUG] 2023-05-19 15:37:35,205 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - randomWait :: 23282
+[DEBUG] 2023-05-19 15:37:38,209 [TestNG-tests-3]  com.zensar.automation.framework.driver.MobileDriver test - randomWait :: 19916
+[DEBUG] 2023-05-19 15:37:38,209 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - randomWait :: 13761
+[DEBUG] 2023-05-19 15:38:03,441 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - Test case to run :Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext
+[DEBUG] 2023-05-19 15:38:03,441 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - 19/05/2023 15:37:35
+[DEBUG] 2023-05-19 15:38:03,447 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - Script Parameters Configured
+[INFO] 2023-05-19 15:38:03,447 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - Calling invoke method
+[INFO] 2023-05-19 15:38:03,449 [TestNG-tests-2]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - FrameworkPlayNext
+[DEBUG] 2023-05-19 15:38:03,456 [TestNG-tests-2]  Modules.Regression.FunctionLibrary.factory.MobileFunctionLibraryFactory getFunctionLibrary - Framework received ::PlayNext
+[INFO] 2023-05-19 15:38:03,462 [TestNG-tests-2]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile <init> - In mobile super class
+[INFO] 2023-05-19 15:38:03,463 [TestNG-tests-2]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile <init> - Read Excel file
+[INFO] 2023-05-19 15:38:03,471 [TestNG-tests-2]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile <init> - Total row 268
+[DEBUG] 2023-05-19 15:38:04,477 [TestNG-tests-2]  com.zensar.automation.library.CommonUtil randomStringgenerator - Random String has created for username
+[DEBUG] 2023-05-19 15:38:04,801 [TestNG-tests-2]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - context going to set in IOS is:WEBVIEW_18564.1
+[DEBUG] 2023-05-19 15:38:16,678 [TestNG-tests-3]  com.zensar.automation.framework.driver.MobileDriver test - Test case to run :Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext
+[DEBUG] 2023-05-19 15:38:16,678 [TestNG-tests-3]  com.zensar.automation.framework.driver.MobileDriver test - 19/05/2023 15:37:35
+[DEBUG] 2023-05-19 15:38:16,678 [TestNG-tests-3]  com.zensar.automation.framework.driver.MobileDriver test - Script Parameters Configured
+[INFO] 2023-05-19 15:38:16,678 [TestNG-tests-3]  com.zensar.automation.framework.driver.MobileDriver test - Calling invoke method
+[INFO] 2023-05-19 15:38:16,678 [TestNG-tests-3]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - FrameworkPlayNext
+[DEBUG] 2023-05-19 15:38:16,678 [TestNG-tests-3]  Modules.Regression.FunctionLibrary.factory.MobileFunctionLibraryFactory getFunctionLibrary - Framework received ::PlayNext
+[INFO] 2023-05-19 15:38:16,678 [TestNG-tests-3]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile <init> - In mobile super class
+[INFO] 2023-05-19 15:38:16,678 [TestNG-tests-3]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile <init> - Read Excel file
+[INFO] 2023-05-19 15:38:16,681 [TestNG-tests-3]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile <init> - Total row 268
+[ERROR] 2023-05-19 15:38:17,152 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - Exception in Mobile Driver
+org.openqa.selenium.SessionNotCreatedException: Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: timeout: Adb command timed out after 30 seconds
+  (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Linux 3.10.0-1160.15.2.el7.x86_64 x86_64)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50N0099', ip: '10.216.75.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: driver.version: MobileDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: timeout: Adb command timed out after 30 seconds
+  (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Linux 3.10.0-1160.15.2.el7.x86_64 x86_64)
+    at getResponseForW3CError (/usr/lib/node_modules/appium/node_modules/appium-base-driver/lib/protocol/errors.js:804:9)
+    at asyncHandler (/usr/lib/node_modules/appium/node_modules/appium-base-driver/lib/protocol/protocol.js:384:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50N0099', ip: '10.216.75.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: driver.version: MobileDriver
+	at io.appium.java_client.remote.AppiumCommandExecutor$1.createSession(AppiumCommandExecutor.java:216)
+	at io.appium.java_client.remote.AppiumCommandExecutor.createSession(AppiumCommandExecutor.java:225)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+	at io.appium.java_client.AppiumDriver.startSession(AppiumDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+	at io.appium.java_client.DefaultGenericMobileDriver.<init>(DefaultGenericMobileDriver.java:37)
+	at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:89)
+	at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:99)
+	at io.appium.java_client.android.AndroidDriver.<init>(AndroidDriver.java:97)
+	at com.zensar.automation.framework.driver.MobileDriver.test(MobileDriver.java:230)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at io.appium.java_client.remote.AppiumCommandExecutor$1.createSession(AppiumCommandExecutor.java:193)
+	... 37 more
+Caused by: org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: timeout: Adb command timed out after 30 seconds
+  (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Linux 3.10.0-1160.15.2.el7.x86_64 x86_64)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50N0099', ip: '10.216.75.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: driver.version: MobileDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: timeout: Adb command timed out after 30 seconds
+  (Driver info: chromedriver=90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}),platform=Linux 3.10.0-1160.15.2.el7.x86_64 x86_64)
+    at getResponseForW3CError (/usr/lib/node_modules/appium/node_modules/appium-base-driver/lib/protocol/errors.js:804:9)
+    at asyncHandler (/usr/lib/node_modules/appium/node_modules/appium-base-driver/lib/protocol/protocol.js:384:37)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$errorHandler$0(W3CHandshakeResponse.java:62)
+	at org.openqa.selenium.remote.HandshakeResponse.lambda$getResponseFunction$0(HandshakeResponse.java:30)
+	at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:126)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.Spliterators$ArraySpliterator.tryAdvance(Spliterators.java:1002)
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:129)
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:527)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:513)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:150)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:647)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:128)
+	... 42 more
+[DEBUG] 2023-05-19 15:38:17,485 [TestNG-tests-3]  com.zensar.automation.library.CommonUtil randomStringgenerator - Random String has created for username
+[DEBUG] 2023-05-19 15:38:17,806 [TestNG-tests-3]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - context going to set in IOS is:WEBVIEW_61443.1
+[DEBUG] 2023-05-19 15:38:19,592 [TestNG-tests-2]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile funcFullScreen - tapped on full screen overlay
+[DEBUG] 2023-05-19 15:38:32,489 [TestNG-tests-3]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile funcFullScreen - tapped on full screen overlay
+[DEBUG] 2023-05-19 15:38:40,884 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI <init> - context going to set in IOS is:WEBVIEW_18564.1
+[DEBUG] 2023-05-19 15:38:41,899 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI <init> - Connected device screenWidth=1284
+Connected device scrrenHeight=2778
+[DEBUG] 2023-05-19 15:38:42,535 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI <init> - 1.2513514
+[DEBUG] 2023-05-19 15:38:47,742 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI <init> - context going to set in IOS is:WEBVIEW_61443.1
+[DEBUG] 2023-05-19 15:38:48,781 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI <init> - Connected device screenWidth=1536
+Connected device scrrenHeight=2048
+[DEBUG] 2023-05-19 15:38:49,418 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI <init> - 0.92252254
+[DEBUG] 2023-05-19 15:38:52,163 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:38:59,333 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:39:11,154 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:39:14,479 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:39:16,322 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:39:17,541 [TestNG-tests-3]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - context going to set in IOS is:WEBVIEW_61443.1
+[DEBUG] 2023-05-19 15:39:23,027 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:39:33,719 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:39:43,279 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:39:50,910 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:39:52,825 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:39:57,277 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:40:01,989 [TestNG-tests-2]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - context going to set in IOS is:WEBVIEW_18564.1
+[DEBUG] 2023-05-19 15:40:05,076 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:40:09,512 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:40:17,883 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:40:22,269 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:40:28,916 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:40:30,264 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:40:31,891 [TestNG-tests-3]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - context going to set in IOS is:WEBVIEW_61443.1
+[ERROR] 2023-05-19 15:40:43,227 [TestNG-tests-3]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile funcClick - org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50N0099', ip: '10.216.75.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {autoWebview: true, automationName: XCUITest, browserName: safari, clearSystemFiles: false, databaseEnabled: false, derivedDataPath: /Users/devicefarm/mcloud-io..., deviceName: iPadmini5_GT2640, devicefarm:authToken: 1f17832ec7a54b45b76135f5cbf..., devicefarm:deviceTimeout: 25200000, javascriptEnabled: true, locationContextEnabled: false, mjpegServerPort: 15043, nativeWebTap: true, networkConnectionEnabled: false, newCommandTimeout: 600000, platform: MAC, platformName: iOS, platformVersion: 14.7.1, preventWDAAttachments: true, server:CONFIG_UUID: dad93361-a9d6-462b-bbe0-fad..., showIOSLog: true, showXcodeLog: true, simpleIsVisibleCheck: true, takesScreenshot: true, udid: 00008020-0015445E0EC1002E, useNewWDA: false, usePrebuiltWDA: true, wdaLocalPort: 15042, webDriverAgentUrl: http://10.1.230.24:15042, webStorageEnabled: false, webkitDebugProxyPort: 15044}
+Session ID: 690eaed5-3923-472a-b993-9eba47aa9b53
+*** Element info: {Using=xpath, value=//*[@id="titan-infobar-titanDynamicMenuIcon"]}
+[DEBUG] 2023-05-19 15:40:55,556 [TestNG-tests-3]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile elementVisible_Xpath - An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50N0099', ip: '10.216.75.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {autoWebview: true, automationName: XCUITest, browserName: safari, clearSystemFiles: false, databaseEnabled: false, derivedDataPath: /Users/devicefarm/mcloud-io..., deviceName: iPadmini5_GT2640, devicefarm:authToken: 1f17832ec7a54b45b76135f5cbf..., devicefarm:deviceTimeout: 25200000, javascriptEnabled: true, locationContextEnabled: false, mjpegServerPort: 15043, nativeWebTap: true, networkConnectionEnabled: false, newCommandTimeout: 600000, platform: MAC, platformName: iOS, platformVersion: 14.7.1, preventWDAAttachments: true, server:CONFIG_UUID: dad93361-a9d6-462b-bbe0-fad..., showIOSLog: true, showXcodeLog: true, simpleIsVisibleCheck: true, takesScreenshot: true, udid: 00008020-0015445E0EC1002E, useNewWDA: false, usePrebuiltWDA: true, wdaLocalPort: 15042, webDriverAgentUrl: http://10.1.230.24:15042, webStorageEnabled: false, webkitDebugProxyPort: 15044}
+Session ID: 690eaed5-3923-472a-b993-9eba47aa9b53
+*** Element info: {Using=xpath, value=//*[@id="dynamicMenuItem_0"]}
+org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50N0099', ip: '10.216.75.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {autoWebview: true, automationName: XCUITest, browserName: safari, clearSystemFiles: false, databaseEnabled: false, derivedDataPath: /Users/devicefarm/mcloud-io..., deviceName: iPadmini5_GT2640, devicefarm:authToken: 1f17832ec7a54b45b76135f5cbf..., devicefarm:deviceTimeout: 25200000, javascriptEnabled: true, locationContextEnabled: false, mjpegServerPort: 15043, nativeWebTap: true, networkConnectionEnabled: false, newCommandTimeout: 600000, platform: MAC, platformName: iOS, platformVersion: 14.7.1, preventWDAAttachments: true, server:CONFIG_UUID: dad93361-a9d6-462b-bbe0-fad..., showIOSLog: true, showXcodeLog: true, simpleIsVisibleCheck: true, takesScreenshot: true, udid: 00008020-0015445E0EC1002E, useNewWDA: false, usePrebuiltWDA: true, wdaLocalPort: 15042, webDriverAgentUrl: http://10.1.230.24:15042, webStorageEnabled: false, webkitDebugProxyPort: 15044}
+Session ID: 690eaed5-3923-472a-b993-9eba47aa9b53
+*** Element info: {Using=xpath, value=//*[@id="dynamicMenuItem_0"]}
+	at jdk.internal.reflect.GeneratedConstructorAccessor71.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.ios.IOSDriver.execute(IOSDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:61)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElementByXPath(DefaultGenericMobileDriver.java:151)
+	at io.appium.java_client.AppiumDriver.findElementByXPath(AppiumDriver.java:1)
+	at io.appium.java_client.ios.IOSDriver.findElementByXPath(IOSDriver.java:1)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+	at Modules.Regression.FunctionLibrary.CFNLibrary_Mobile_PlayNext.elementVisible_Xpath(CFNLibrary_Mobile_PlayNext.java:285)
+	at Modules.Regression.FunctionLibrary.CFNLibrary_Mobile_PlayNext.verifyHelpOnTopbar(CFNLibrary_Mobile_PlayNext.java:1192)
+	at Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext.script(Mobile_Sanity_UI_PlayNext.java:483)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.zensar.automation.framework.driver.MobileDriver.test(MobileDriver.java:329)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[DEBUG] 2023-05-19 15:40:56,049 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:40:59,023 [TestNG-tests-3]  com.zensar.automation.library.CommonUtil randomStringgenerator - Random String has created for username
+[DEBUG] 2023-05-19 15:40:59,339 [TestNG-tests-3]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - context going to set in IOS is:WEBVIEW_61443.1
+[DEBUG] 2023-05-19 15:41:13,975 [TestNG-tests-3]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile funcFullScreen - tapped on full screen overlay
+[DEBUG] 2023-05-19 15:41:19,230 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:41:22,752 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:41:29,655 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI <init> - context going to set in IOS is:WEBVIEW_61443.1
+[DEBUG] 2023-05-19 15:41:30,618 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI <init> - Connected device screenWidth=1536
+Connected device scrrenHeight=2048
+[DEBUG] 2023-05-19 15:41:31,229 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI <init> - 0.92252254
+[DEBUG] 2023-05-19 15:41:37,736 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:41:47,740 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI click - NFDButton.PNG is  found going to click..
+[DEBUG] 2023-05-19 15:41:49,407 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:42:12,223 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI click - QuickSpinOff.PNG is  found going to click..
+[DEBUG] 2023-05-19 15:42:19,914 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:42:34,685 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI click - Autoplay.PNG is  found going to click..
+[DEBUG] 2023-05-19 15:42:44,330 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:42:46,136 [TestNG-tests-3]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - context going to set in IOS is:WEBVIEW_61443.1
+[DEBUG] 2023-05-19 15:42:47,806 [TestNG-tests-3]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile verifySliderValue - Value before sliding: null
+[DEBUG] 2023-05-19 15:42:50,121 [TestNG-tests-3]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile verifySliderValue - unable to move slider
+[ERROR] 2023-05-19 15:42:50,122 [TestNG-tests-3]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile verifySliderValue - An unknown server-side error occurred while processing the command. Original error: Can't find variable: Game
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50N0099', ip: '10.216.75.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {autoWebview: true, automationName: XCUITest, browserName: safari, clearSystemFiles: false, databaseEnabled: false, derivedDataPath: /Users/devicefarm/mcloud-io..., deviceName: iPadmini5_GT2640, devicefarm:authToken: 1f17832ec7a54b45b76135f5cbf..., devicefarm:deviceTimeout: 25200000, javascriptEnabled: true, locationContextEnabled: false, mjpegServerPort: 15043, nativeWebTap: true, networkConnectionEnabled: false, newCommandTimeout: 600000, platform: MAC, platformName: iOS, platformVersion: 14.7.1, preventWDAAttachments: true, server:CONFIG_UUID: dad93361-a9d6-462b-bbe0-fad..., showIOSLog: true, showXcodeLog: true, simpleIsVisibleCheck: true, takesScreenshot: true, udid: 00008020-0015445E0EC1002E, useNewWDA: false, usePrebuiltWDA: true, wdaLocalPort: 15042, webDriverAgentUrl: http://10.1.230.24:15042, webStorageEnabled: false, webkitDebugProxyPort: 15044}
+Session ID: 690eaed5-3923-472a-b993-9eba47aa9b53
+org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Can't find variable: Game
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50N0099', ip: '10.216.75.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {autoWebview: true, automationName: XCUITest, browserName: safari, clearSystemFiles: false, databaseEnabled: false, derivedDataPath: /Users/devicefarm/mcloud-io..., deviceName: iPadmini5_GT2640, devicefarm:authToken: 1f17832ec7a54b45b76135f5cbf..., devicefarm:deviceTimeout: 25200000, javascriptEnabled: true, locationContextEnabled: false, mjpegServerPort: 15043, nativeWebTap: true, networkConnectionEnabled: false, newCommandTimeout: 600000, platform: MAC, platformName: iOS, platformVersion: 14.7.1, preventWDAAttachments: true, server:CONFIG_UUID: dad93361-a9d6-462b-bbe0-fad..., showIOSLog: true, showXcodeLog: true, simpleIsVisibleCheck: true, takesScreenshot: true, udid: 00008020-0015445E0EC1002E, useNewWDA: false, usePrebuiltWDA: true, wdaLocalPort: 15042, webDriverAgentUrl: http://10.1.230.24:15042, webStorageEnabled: false, webkitDebugProxyPort: 15044}
+Session ID: 690eaed5-3923-472a-b993-9eba47aa9b53
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.ios.IOSDriver.execute(IOSDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:489)
+	at Modules.Regression.FunctionLibrary.CFNLibrary_Mobile_PlayNext.clickAtButton(CFNLibrary_Mobile_PlayNext.java:297)
+	at Modules.Regression.FunctionLibrary.CFNLibrary_Mobile_PlayNext.verifySliderValue(CFNLibrary_Mobile_PlayNext.java:524)
+	at Modules.Regression.FunctionLibrary.CFNLibrary_Mobile_PlayNext.validateSpinsSliderAutoplay(CFNLibrary_Mobile_PlayNext.java:1358)
+	at Modules.Regression.FunctionLibrary.CFNLibrary_Mobile_PlayNext.AutoplayOptions(CFNLibrary_Mobile_PlayNext.java:2498)
+	at Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext.script(Mobile_Sanity_UI_PlayNext.java:202)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.zensar.automation.framework.driver.MobileDriver.test(MobileDriver.java:329)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[DEBUG] 2023-05-19 15:42:53,751 [TestNG-tests-3]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile validateSpinsSliderAutoplay - Autoplay spins slider is not working
+[DEBUG] 2023-05-19 15:42:55,302 [TestNG-tests-2]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - context going to set in IOS is:WEBVIEW_18564.1
+[DEBUG] 2023-05-19 15:43:11,692 [TestNG-tests-2]  com.zensar.automation.library.CommonUtil randomStringgenerator - Random String has created for username
+[DEBUG] 2023-05-19 15:43:12,009 [TestNG-tests-2]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - context going to set in IOS is:WEBVIEW_18564.1
+[DEBUG] 2023-05-19 15:43:16,105 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI click - StartAutoplay.PNG is  found going to click..
+[DEBUG] 2023-05-19 15:43:26,087 [TestNG-tests-2]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile funcFullScreen - tapped on full screen overlay
+[DEBUG] 2023-05-19 15:43:44,622 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI click - AutoplayStop.PNG is  found going to click..
+[DEBUG] 2023-05-19 15:43:50,861 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI <init> - context going to set in IOS is:WEBVIEW_18564.1
+[DEBUG] 2023-05-19 15:43:51,808 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI <init> - Connected device screenWidth=1284
+Connected device scrrenHeight=2778
+[DEBUG] 2023-05-19 15:43:52,425 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI <init> - 1.2513514
+[DEBUG] 2023-05-19 15:43:58,654 [TestNG-tests-3]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - context going to set in IOS is:WEBVIEW_61443.1
+[DEBUG] 2023-05-19 15:44:07,747 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI click - NFDButton.PNG is  found going to click..
+[DEBUG] 2023-05-19 15:44:11,684 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI click - BetMenu.PNG is  found going to click..
+[DEBUG] 2023-05-19 15:44:23,718 [TestNG-tests-3]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - context going to set in IOS is:WEBVIEW_61443.1
+[DEBUG] 2023-05-19 15:44:30,408 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:44:45,838 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI click - QuickSpinOff.PNG is  found going to click..
+[DEBUG] 2023-05-19 15:44:47,229 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI click - Menu.PNG is  found going to click..
+[DEBUG] 2023-05-19 15:45:06,087 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI click - Autoplay.PNG is  found going to click..
+[DEBUG] 2023-05-19 15:45:11,416 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI click - Paytable.PNG is  found going to click..
+[DEBUG] 2023-05-19 15:45:17,387 [TestNG-tests-2]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - context going to set in IOS is:WEBVIEW_18564.1
+[DEBUG] 2023-05-19 15:45:19,063 [TestNG-tests-2]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile verifySliderValue - Value before sliding: null
+[DEBUG] 2023-05-19 15:45:21,398 [TestNG-tests-2]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile verifySliderValue - unable to move slider
+[ERROR] 2023-05-19 15:45:21,398 [TestNG-tests-2]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile verifySliderValue - An unknown server-side error occurred while processing the command. Original error: Can't find variable: Game
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50N0099', ip: '10.216.75.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {autoWebview: true, automationName: XCUITest, browserName: safari, clearSystemFiles: false, databaseEnabled: false, derivedDataPath: /Users/devicefarm/mcloud-io..., deviceName: iPhone12ProMax_GT3180, devicefarm:authToken: 1f17832ec7a54b45b76135f5cbf..., devicefarm:deviceTimeout: 25200000, javascriptEnabled: true, locationContextEnabled: false, mjpegServerPort: 15323, nativeWebTap: true, networkConnectionEnabled: false, newCommandTimeout: 600000, platform: MAC, platformName: iOS, platformVersion: 16.0, preventWDAAttachments: true, server:CONFIG_UUID: 1375e89e-20a7-456b-8f29-229..., showIOSLog: true, showXcodeLog: true, simpleIsVisibleCheck: true, takesScreenshot: true, udid: 00008101-000E3C4A1E90001E, useNewWDA: false, usePrebuiltWDA: true, wdaLocalPort: 15322, webDriverAgentUrl: http://10.1.230.24:15322, webStorageEnabled: false, webkitDebugProxyPort: 15324}
+Session ID: 4b72b291-71fd-4fde-a02e-0eec50eed157
+org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Can't find variable: Game
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50N0099', ip: '10.216.75.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {autoWebview: true, automationName: XCUITest, browserName: safari, clearSystemFiles: false, databaseEnabled: false, derivedDataPath: /Users/devicefarm/mcloud-io..., deviceName: iPhone12ProMax_GT3180, devicefarm:authToken: 1f17832ec7a54b45b76135f5cbf..., devicefarm:deviceTimeout: 25200000, javascriptEnabled: true, locationContextEnabled: false, mjpegServerPort: 15323, nativeWebTap: true, networkConnectionEnabled: false, newCommandTimeout: 600000, platform: MAC, platformName: iOS, platformVersion: 16.0, preventWDAAttachments: true, server:CONFIG_UUID: 1375e89e-20a7-456b-8f29-229..., showIOSLog: true, showXcodeLog: true, simpleIsVisibleCheck: true, takesScreenshot: true, udid: 00008101-000E3C4A1E90001E, useNewWDA: false, usePrebuiltWDA: true, wdaLocalPort: 15322, webDriverAgentUrl: http://10.1.230.24:15322, webStorageEnabled: false, webkitDebugProxyPort: 15324}
+Session ID: 4b72b291-71fd-4fde-a02e-0eec50eed157
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.ios.IOSDriver.execute(IOSDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.executeScript(RemoteWebDriver.java:489)
+	at Modules.Regression.FunctionLibrary.CFNLibrary_Mobile_PlayNext.clickAtButton(CFNLibrary_Mobile_PlayNext.java:297)
+	at Modules.Regression.FunctionLibrary.CFNLibrary_Mobile_PlayNext.verifySliderValue(CFNLibrary_Mobile_PlayNext.java:524)
+	at Modules.Regression.FunctionLibrary.CFNLibrary_Mobile_PlayNext.validateSpinsSliderAutoplay(CFNLibrary_Mobile_PlayNext.java:1358)
+	at Modules.Regression.FunctionLibrary.CFNLibrary_Mobile_PlayNext.AutoplayOptions(CFNLibrary_Mobile_PlayNext.java:2498)
+	at Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext.script(Mobile_Sanity_UI_PlayNext.java:202)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.zensar.automation.framework.driver.MobileDriver.test(MobileDriver.java:329)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[DEBUG] 2023-05-19 15:45:22,752 [TestNG-tests-3]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - context going to set in IOS is:WEBVIEW_61443.1
+[DEBUG] 2023-05-19 15:45:23,403 [TestNG-tests-3]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - context going to set in IOS is:WEBVIEW_61443.1
+[DEBUG] 2023-05-19 15:45:24,754 [TestNG-tests-2]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile validateSpinsSliderAutoplay - Autoplay spins slider is not working
+[ERROR] 2023-05-19 15:45:26,906 [TestNG-tests-3]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile scrollUsingElement - Cannot find elements when the XPath is null.
+java.lang.IllegalArgumentException: Cannot find elements when the XPath is null.
+	at org.openqa.selenium.By$ByXPath.<init>(By.java:339)
+	at org.openqa.selenium.By.xpath(By.java:92)
+	at Modules.Regression.FunctionLibrary.CFNLibrary_Mobile_PlayNext.scrollUsingElement(CFNLibrary_Mobile_PlayNext.java:1029)
+	at Modules.Regression.FunctionLibrary.CFNLibrary_Mobile_PlayNext.paytableScrollOfNine(CFNLibrary_Mobile_PlayNext.java:956)
+	at Modules.Regression.FunctionLibrary.CFNLibrary_Mobile_PlayNext.paytableScroll(CFNLibrary_Mobile_PlayNext.java:719)
+	at Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext.script(Mobile_Sanity_UI_PlayNext.java:368)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.zensar.automation.framework.driver.MobileDriver.test(MobileDriver.java:329)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[ERROR] 2023-05-19 15:45:26,907 [TestNG-tests-3]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile scrollUsingElement - unable to scroll
+[DEBUG] 2023-05-19 15:45:40,318 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI click - PaytableClose.PNG is  found going to click..
+[DEBUG] 2023-05-19 15:45:46,228 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI click - StartAutoplay.PNG is  found going to click..
+[DEBUG] 2023-05-19 15:45:55,285 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI click - Menu.PNG is  found going to click..
+[DEBUG] 2023-05-19 15:46:13,352 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI click - AutoplayStop.PNG is  found going to click..
+[DEBUG] 2023-05-19 15:46:20,685 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI click - Settings.PNG is  found going to click..
+[DEBUG] 2023-05-19 15:46:27,353 [TestNG-tests-2]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - context going to set in IOS is:WEBVIEW_18564.1
+[DEBUG] 2023-05-19 15:46:32,245 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:46:38,818 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI click - BetMenu.PNG is  found going to click..
+[DEBUG] 2023-05-19 15:46:51,988 [TestNG-tests-2]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - context going to set in IOS is:WEBVIEW_18564.1
+[DEBUG] 2023-05-19 15:46:53,505 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI click - Spin.PNG is  found going to click..
+[DEBUG] 2023-05-19 15:46:58,641 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:47:06,483 [TestNG-tests-3]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:47:09,559 [TestNG-tests-3]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - context going to set in IOS is:WEBVIEW_61443.1
+[DEBUG] 2023-05-19 15:47:14,087 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI click - Menu.PNG is  found going to click..
+[ERROR] 2023-05-19 15:47:20,870 [TestNG-tests-3]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile funcClick - org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50N0099', ip: '10.216.75.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {autoWebview: true, automationName: XCUITest, browserName: safari, clearSystemFiles: false, databaseEnabled: false, derivedDataPath: /Users/devicefarm/mcloud-io..., deviceName: iPadmini5_GT2640, devicefarm:authToken: 1f17832ec7a54b45b76135f5cbf..., devicefarm:deviceTimeout: 25200000, javascriptEnabled: true, locationContextEnabled: false, mjpegServerPort: 15043, nativeWebTap: true, networkConnectionEnabled: false, newCommandTimeout: 600000, platform: MAC, platformName: iOS, platformVersion: 14.7.1, preventWDAAttachments: true, server:CONFIG_UUID: dad93361-a9d6-462b-bbe0-fad..., showIOSLog: true, showXcodeLog: true, simpleIsVisibleCheck: true, takesScreenshot: true, udid: 00008020-0015445E0EC1002E, useNewWDA: false, usePrebuiltWDA: true, wdaLocalPort: 15042, webDriverAgentUrl: http://10.1.230.24:15042, webStorageEnabled: false, webkitDebugProxyPort: 15044}
+Session ID: 690eaed5-3923-472a-b993-9eba47aa9b53
+*** Element info: {Using=xpath, value=//*[@id="titan-infobar-titanDynamicMenuIcon"]}
+[DEBUG] 2023-05-19 15:47:33,205 [TestNG-tests-3]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile elementVisible_Xpath - An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50N0099', ip: '10.216.75.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {autoWebview: true, automationName: XCUITest, browserName: safari, clearSystemFiles: false, databaseEnabled: false, derivedDataPath: /Users/devicefarm/mcloud-io..., deviceName: iPadmini5_GT2640, devicefarm:authToken: 1f17832ec7a54b45b76135f5cbf..., devicefarm:deviceTimeout: 25200000, javascriptEnabled: true, locationContextEnabled: false, mjpegServerPort: 15043, nativeWebTap: true, networkConnectionEnabled: false, newCommandTimeout: 600000, platform: MAC, platformName: iOS, platformVersion: 14.7.1, preventWDAAttachments: true, server:CONFIG_UUID: dad93361-a9d6-462b-bbe0-fad..., showIOSLog: true, showXcodeLog: true, simpleIsVisibleCheck: true, takesScreenshot: true, udid: 00008020-0015445E0EC1002E, useNewWDA: false, usePrebuiltWDA: true, wdaLocalPort: 15042, webDriverAgentUrl: http://10.1.230.24:15042, webStorageEnabled: false, webkitDebugProxyPort: 15044}
+Session ID: 690eaed5-3923-472a-b993-9eba47aa9b53
+*** Element info: {Using=xpath, value=//*[@id="dynamicMenuItem_0"]}
+org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50N0099', ip: '10.216.75.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {autoWebview: true, automationName: XCUITest, browserName: safari, clearSystemFiles: false, databaseEnabled: false, derivedDataPath: /Users/devicefarm/mcloud-io..., deviceName: iPadmini5_GT2640, devicefarm:authToken: 1f17832ec7a54b45b76135f5cbf..., devicefarm:deviceTimeout: 25200000, javascriptEnabled: true, locationContextEnabled: false, mjpegServerPort: 15043, nativeWebTap: true, networkConnectionEnabled: false, newCommandTimeout: 600000, platform: MAC, platformName: iOS, platformVersion: 14.7.1, preventWDAAttachments: true, server:CONFIG_UUID: dad93361-a9d6-462b-bbe0-fad..., showIOSLog: true, showXcodeLog: true, simpleIsVisibleCheck: true, takesScreenshot: true, udid: 00008020-0015445E0EC1002E, useNewWDA: false, usePrebuiltWDA: true, wdaLocalPort: 15042, webDriverAgentUrl: http://10.1.230.24:15042, webStorageEnabled: false, webkitDebugProxyPort: 15044}
+Session ID: 690eaed5-3923-472a-b993-9eba47aa9b53
+*** Element info: {Using=xpath, value=//*[@id="dynamicMenuItem_0"]}
+	at jdk.internal.reflect.GeneratedConstructorAccessor71.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.ios.IOSDriver.execute(IOSDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:61)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElementByXPath(DefaultGenericMobileDriver.java:151)
+	at io.appium.java_client.AppiumDriver.findElementByXPath(AppiumDriver.java:1)
+	at io.appium.java_client.ios.IOSDriver.findElementByXPath(IOSDriver.java:1)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+	at Modules.Regression.FunctionLibrary.CFNLibrary_Mobile_PlayNext.elementVisible_Xpath(CFNLibrary_Mobile_PlayNext.java:285)
+	at Modules.Regression.FunctionLibrary.CFNLibrary_Mobile_PlayNext.verifyHelpOnTopbar(CFNLibrary_Mobile_PlayNext.java:1192)
+	at Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext.script(Mobile_Sanity_UI_PlayNext.java:483)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.zensar.automation.framework.driver.MobileDriver.test(MobileDriver.java:329)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[INFO] 2023-05-19 15:47:39,139 [TestNG-tests-3]  com.zensar.automation.framework.driver.MobileDriver test - Excution started for: Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext
+[INFO] 2023-05-19 15:47:39,141 [TestNG-tests-3]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-05-19 15:47:39,143 [TestNG-tests-3]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-05-19 15:47:39,144 [TestNG-tests-3]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[ERROR] 2023-05-19 15:47:39,144 [TestNG-tests-3]  com.zensar.automation.framework.driver.MobileDriver test - Exception in Mobile Driver
+java.lang.NullPointerException: Cannot invoke "org.apache.poi.ss.usermodel.Row.getCell(int, org.apache.poi.ss.usermodel.Row$MissingCellPolicy)" because the return value of "org.apache.poi.ss.usermodel.Sheet.getRow(int)" is null
+	at com.zensar.automation.framework.utils.ExcelDataPoolManager.readExcelByRow(ExcelDataPoolManager.java:148)
+	at com.zensar.automation.framework.driver.MobileDriver.test(MobileDriver.java:151)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[DEBUG] 2023-05-19 15:47:41,336 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI click - Paytable.PNG is  found going to click..
+[DEBUG] 2023-05-19 15:47:58,117 [TestNG-tests-2]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - context going to set in IOS is:WEBVIEW_18564.1
+[DEBUG] 2023-05-19 15:47:59,381 [TestNG-tests-2]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - context going to set in IOS is:WEBVIEW_18564.1
+[ERROR] 2023-05-19 15:48:06,669 [TestNG-tests-2]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile scrollUsingElement - Cannot find elements when the XPath is null.
+java.lang.IllegalArgumentException: Cannot find elements when the XPath is null.
+	at org.openqa.selenium.By$ByXPath.<init>(By.java:339)
+	at org.openqa.selenium.By.xpath(By.java:92)
+	at Modules.Regression.FunctionLibrary.CFNLibrary_Mobile_PlayNext.scrollUsingElement(CFNLibrary_Mobile_PlayNext.java:1029)
+	at Modules.Regression.FunctionLibrary.CFNLibrary_Mobile_PlayNext.paytableScrollOfNine(CFNLibrary_Mobile_PlayNext.java:956)
+	at Modules.Regression.FunctionLibrary.CFNLibrary_Mobile_PlayNext.paytableScroll(CFNLibrary_Mobile_PlayNext.java:719)
+	at Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext.script(Mobile_Sanity_UI_PlayNext.java:368)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.zensar.automation.framework.driver.MobileDriver.test(MobileDriver.java:329)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[ERROR] 2023-05-19 15:48:06,670 [TestNG-tests-2]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile scrollUsingElement - unable to scroll
+[DEBUG] 2023-05-19 15:48:21,682 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI click - PaytableClose.PNG is  found going to click..
+[DEBUG] 2023-05-19 15:48:33,010 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI click - Menu.PNG is  found going to click..
+[DEBUG] 2023-05-19 15:48:59,647 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI click - Settings.PNG is  found going to click..
+[DEBUG] 2023-05-19 15:49:12,147 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:49:32,029 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI click - Spin.PNG is  found going to click..
+[DEBUG] 2023-05-19 15:49:44,658 [TestNG-tests-2]  com.zensar.automation.framework.api.ImageMobileAPI isImageAppears - Exception thrown image not found
+[DEBUG] 2023-05-19 15:49:51,234 [TestNG-tests-2]  Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext script - context going to set in IOS is:WEBVIEW_18564.1
+[ERROR] 2023-05-19 15:50:02,516 [TestNG-tests-2]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile funcClick - org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50N0099', ip: '10.216.75.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {autoWebview: true, automationName: XCUITest, browserName: safari, clearSystemFiles: false, databaseEnabled: false, derivedDataPath: /Users/devicefarm/mcloud-io..., deviceName: iPhone12ProMax_GT3180, devicefarm:authToken: 1f17832ec7a54b45b76135f5cbf..., devicefarm:deviceTimeout: 25200000, javascriptEnabled: true, locationContextEnabled: false, mjpegServerPort: 15323, nativeWebTap: true, networkConnectionEnabled: false, newCommandTimeout: 600000, platform: MAC, platformName: iOS, platformVersion: 16.0, preventWDAAttachments: true, server:CONFIG_UUID: 1375e89e-20a7-456b-8f29-229..., showIOSLog: true, showXcodeLog: true, simpleIsVisibleCheck: true, takesScreenshot: true, udid: 00008101-000E3C4A1E90001E, useNewWDA: false, usePrebuiltWDA: true, wdaLocalPort: 15322, webDriverAgentUrl: http://10.1.230.24:15322, webStorageEnabled: false, webkitDebugProxyPort: 15324}
+Session ID: 4b72b291-71fd-4fde-a02e-0eec50eed157
+*** Element info: {Using=xpath, value=//*[@id="titan-infobar-titanDynamicMenuIcon"]}
+[DEBUG] 2023-05-19 15:50:14,839 [TestNG-tests-2]  Modules.Regression.FunctionLibrary.CFNLibrary_Mobile elementVisible_Xpath - An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50N0099', ip: '10.216.75.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {autoWebview: true, automationName: XCUITest, browserName: safari, clearSystemFiles: false, databaseEnabled: false, derivedDataPath: /Users/devicefarm/mcloud-io..., deviceName: iPhone12ProMax_GT3180, devicefarm:authToken: 1f17832ec7a54b45b76135f5cbf..., devicefarm:deviceTimeout: 25200000, javascriptEnabled: true, locationContextEnabled: false, mjpegServerPort: 15323, nativeWebTap: true, networkConnectionEnabled: false, newCommandTimeout: 600000, platform: MAC, platformName: iOS, platformVersion: 16.0, preventWDAAttachments: true, server:CONFIG_UUID: 1375e89e-20a7-456b-8f29-229..., showIOSLog: true, showXcodeLog: true, simpleIsVisibleCheck: true, takesScreenshot: true, udid: 00008101-000E3C4A1E90001E, useNewWDA: false, usePrebuiltWDA: true, wdaLocalPort: 15322, webDriverAgentUrl: http://10.1.230.24:15322, webStorageEnabled: false, webkitDebugProxyPort: 15324}
+Session ID: 4b72b291-71fd-4fde-a02e-0eec50eed157
+*** Element info: {Using=xpath, value=//*[@id="dynamicMenuItem_0"]}
+org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50N0099', ip: '10.216.75.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: io.appium.java_client.ios.IOSDriver
+Capabilities {autoWebview: true, automationName: XCUITest, browserName: safari, clearSystemFiles: false, databaseEnabled: false, derivedDataPath: /Users/devicefarm/mcloud-io..., deviceName: iPhone12ProMax_GT3180, devicefarm:authToken: 1f17832ec7a54b45b76135f5cbf..., devicefarm:deviceTimeout: 25200000, javascriptEnabled: true, locationContextEnabled: false, mjpegServerPort: 15323, nativeWebTap: true, networkConnectionEnabled: false, newCommandTimeout: 600000, platform: MAC, platformName: iOS, platformVersion: 16.0, preventWDAAttachments: true, server:CONFIG_UUID: 1375e89e-20a7-456b-8f29-229..., showIOSLog: true, showXcodeLog: true, simpleIsVisibleCheck: true, takesScreenshot: true, udid: 00008101-000E3C4A1E90001E, useNewWDA: false, usePrebuiltWDA: true, wdaLocalPort: 15322, webDriverAgentUrl: http://10.1.230.24:15322, webStorageEnabled: false, webkitDebugProxyPort: 15324}
+Session ID: 4b72b291-71fd-4fde-a02e-0eec50eed157
+*** Element info: {Using=xpath, value=//*[@id="dynamicMenuItem_0"]}
+	at jdk.internal.reflect.GeneratedConstructorAccessor71.newInstance(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.ios.IOSDriver.execute(IOSDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:61)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElementByXPath(DefaultGenericMobileDriver.java:151)
+	at io.appium.java_client.AppiumDriver.findElementByXPath(AppiumDriver.java:1)
+	at io.appium.java_client.ios.IOSDriver.findElementByXPath(IOSDriver.java:1)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+	at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+	at Modules.Regression.FunctionLibrary.CFNLibrary_Mobile_PlayNext.elementVisible_Xpath(CFNLibrary_Mobile_PlayNext.java:285)
+	at Modules.Regression.FunctionLibrary.CFNLibrary_Mobile_PlayNext.verifyHelpOnTopbar(CFNLibrary_Mobile_PlayNext.java:1192)
+	at Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext.script(Mobile_Sanity_UI_PlayNext.java:483)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at com.zensar.automation.framework.driver.MobileDriver.test(MobileDriver.java:329)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[INFO] 2023-05-19 15:50:24,112 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - Excution started for: Modules.Regression.TestScript.Mobile_Sanity_UI_PlayNext
+[INFO] 2023-05-19 15:50:24,114 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-05-19 15:50:24,115 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-05-19 15:50:24,117 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[ERROR] 2023-05-19 15:50:24,118 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - Exception in Mobile Driver
+java.lang.NullPointerException: Cannot invoke "org.apache.poi.ss.usermodel.Row.getCell(int, org.apache.poi.ss.usermodel.Row$MissingCellPolicy)" because the return value of "org.apache.poi.ss.usermodel.Sheet.getRow(int)" is null
+	at com.zensar.automation.framework.utils.ExcelDataPoolManager.readExcelByRow(ExcelDataPoolManager.java:148)
+	at com.zensar.automation.framework.driver.MobileDriver.test(MobileDriver.java:151)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:418)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+[INFO] 2023-05-19 15:50:24,138 [main]  com.zensar.automation.framework.driver.MobileDriver afterSuite - Device has Released00008020-0015445E0EC1002E

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Test>
+  <Key clientID="50300" loginName="harsha83" moduleID="10763"/>
+  <Slot>
+    <ReelSet name="Normal Reels 1 - Start">
+      <ReelPos indexes="0,0,0,0,0" symbols="Basket,Man,Man,Couple,Woman"/>
+    </ReelSet>
+  </Slot>
+</Test>

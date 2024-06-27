@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><!-- User ID 	 : ZENDER\dd55262--><!-- Date 	 : 4-Jul-2022 15:06:47--><Test>
+  <Key clientID="40300" loginName="Zen_2uv8kvn" moduleID="15066"/>
+ <Slot>
+    <ReelSet name="Normal Reels">
+      <ReelPos symbols="Sarah,Sarah,Sarah,Sarah,Sarah" indexes="28,12,16,2,19"/>
+      <ReelPos symbols="Sarah,Sarah,Sarah,Sarah,Ten" indexes="28,12,16,2,22"/>
+      <ReelPos symbols="Sarah,Sarah,Sarah,Jack,Ten" indexes="28,12,16,23,22"/>
+      <ReelPos symbols="Michael,Michael,Michael,Michael,Michael" indexes="20,51,26,50,38"/>
+      <ReelPos symbols="Michael,Michael,Michael,Michael,King" indexes="20,51,26,50,36"/>
+      <ReelPos symbols="Michael,Michael,Michael,Ten,King" indexes="20,51,26,56,36"/>
+      <ReelPos symbols="Troy,Troy,Troy,Troy,Troy" indexes="17,49,47,69,51"/>
+      <ReelPos symbols="Troy,Troy,Troy,Troy,PenLetter" indexes="17,49,47,69,53"/>
+      <ReelPos symbols="Troy,Troy,Troy,King,PenLetter" indexes="17,49,47,71,53"/>
+      <ReelPos symbols="Amber,Amber,Amber,Amber,Amber" indexes="12,50,44,86,40"/>
+      <ReelPos symbols="Amber,Amber,Amber,Amber,Jack" indexes="12,50,44,86,35"/>
+      <ReelPos symbols="Amber,Amber,Amber,Ace,Jack" indexes="12,50,44,88,35"/>
+      <ReelPos symbols="Building,Building,Building,Building,Building" indexes="34,44,57,135,55"/>
+      <ReelPos symbols="Building,Building,Building,Building,Ten" indexes="34,44,57,135,59"/>
+      <ReelPos symbols="Building,Building,Building,Ten,Ten" indexes="34,44,57,179,59"/>
+      <ReelPos symbols="PenLetter,PenLetter,PenLetter,PenLetter,PenLetter" indexes="33,15,13,176,23"/>
+      <ReelPos symbols="PenLetter,PenLetter,PenLetter,PenLetter,Nine" indexes="33,15,13,176,56"/>
+      <ReelPos symbols="PenLetter,PenLetter,PenLetter,Ace,Nine" indexes="33,15,13,181,56"/>
+    </ReelSet>
+  </Slot>
+</Test>

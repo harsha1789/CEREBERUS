@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><!-- User ID 	 : ZENDER\sj46487--><!-- Date 	 : 19-May-2021 15:30:47--><Test>
+  <Key clientID="50300" loginName="Zen_jlhz137" moduleID="100488"/>
+  <Slot>
+    <RandomWild name="WildStorm">
+      <NumWild id="0"/>
+      <NumWild id="5"/>
+      <NumWild id="21"/>
+      <NumWild id="27"/>
+      <NumWild id="30"/>
+    </RandomWild>
+    <PreSpinTriggerConditions>
+      <PreSpinTriggerCondition id="0" randomValues="1"/>
+    </PreSpinTriggerConditions>
+  </Slot>
+</Test>

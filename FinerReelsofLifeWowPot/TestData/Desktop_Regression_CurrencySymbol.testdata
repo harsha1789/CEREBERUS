@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><!-- User ID 	 : ZENDER\sj46487--><!-- Date 	 : 19-May-2021 15:30:47--><Test>
+  <Key clientID="50300" loginName="Zen_1lly3bunl" moduleID="100488"/>
+  <Slot>
+    <ReelSet doNotLoop="true" name="Normal Reels">
+      <ReelPos indexes="7,8,10,14,25" symbols="Ten,Ten,Ten,Jack,Queen"/>
+      <ReelPos indexes="0,0,0,0,0" symbols="Wild,Wild,Wild,Wild,Wild"/>
+     <ReelPos indexes="16,16,40,6,10" symbols="Scatter,Scatter,Scatter,Nine,Queen"/>
+      <ReelPos indexes="20,21,8,47,13" symbols="Michael,Troy,Jack,Scatter,Ten"/> 
+     <ReelPos indexes="7,8,10,14,25" symbols="Ten,Ten,Ten,Jack,Queen"/>
+      <ReelPos indexes="20,21,8,47,13" symbols="Michael,Troy,Jack,Scatter,Ten"/>
+    </ReelSet>
+  </Slot>
+</Test>

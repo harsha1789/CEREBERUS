@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><!-- User ID 	 : ZENDER\sj46487--><!-- Date 	 : 19-May-2021 15:30:47--><Test>
+  <Key clientID="50300" loginName="Zen_25us38w" moduleID="15066"/>
+   <Slot>
+   <ReelSet name="Normal Reels">
+      <ReelPos indexes="14,55,7,1,1" symbols="Scatter,Scatter,Scatter,Nine,Sarah"/>
+    </ReelSet>
+   <ReelSet name="Amber Reels">
+      <ReelPos indexes="5,9,17,43,31" symbols="Ten,Jack,Troy,Building,Queen"/>
+    </ReelSet>
+    <ReelSet name="Troy Reels">
+      <ReelPos indexes="5,9,17,44,37" symbols="Ten,Jack,Troy,Jack,Nine"/>
+      <ReelPos indexes="5,9,17,44,37" symbols="Ten,Jack,Troy,Jack,Nine"/>
+      <ReelPos indexes="0,0,0,0,0" symbols="ImmortalRomance,ImmortalRomance,ImmortalRomance,ImmortalRomance,ImmortalRomance"/>
+      <ReelPos indexes="5,9,17,44,37" symbols="Ten,Jack,Troy,Jack,Nine"/>
+      <ReelPos indexes="5,9,17,44,37" symbols="Ten,Jack,Troy,Jack,Nine"/>
+      <ReelPos indexes="5,9,17,44,37" symbols="Ten,Jack,Troy,Jack,Nine"/>
+      <ReelPos indexes="5,9,17,44,37" symbols="Ten,Jack,Troy,Jack,Nine"/>
+      <ReelPos indexes="5,9,17,44,37" symbols="Ten,Jack,Troy,Jack,Nine"/>
+      <ReelPos indexes="5,9,17,44,37" symbols="Ten,Jack,Troy,Jack,Nine"/>
+      <ReelPos indexes="5,9,17,44,37" symbols="Ten,Jack,Troy,Jack,Nine"/>
+      <ReelPos indexes="5,9,17,44,37" symbols="Ten,Jack,Troy,Jack,Nine"/>
+      <ReelPos indexes="5,9,17,44,37" symbols="Ten,Jack,Troy,Jack,Nine"/>
+      <ReelPos indexes="5,9,17,44,37" symbols="Ten,Jack,Troy,Jack,Nine"/>
+      <ReelPos indexes="5,9,17,44,37" symbols="Ten,Jack,Troy,Jack,Nine"/>
+      <ReelPos indexes="5,9,17,44,37" symbols="Ten,Jack,Troy,Jack,Nine"/>
+    </ReelSet>
+    <ReelSet name="Michael Reels">
+      <ReelPos indexes="13,3,10,18,58" symbols="Amber,Amber,Troy,Troy,Amber"/>
+      <ReelPos indexes="13,3,10,18,58" symbols="Amber,Amber,Troy,Troy,Amber"/>
+      <ReelPos indexes="0,0,0,0,0" symbols="ImmortalRomance,ImmortalRomance,ImmortalRomance,ImmortalRomance,ImmortalRomance"/>
+      <ReelPos indexes="13,3,10,18,58" symbols="Amber,Amber,Troy,Troy,Amber"/>
+      <ReelPos indexes="13,3,10,18,58" symbols="Amber,Amber,Troy,Troy,Amber"/>
+      <ReelPos indexes="13,3,10,18,58" symbols="Amber,Amber,Troy,Troy,Amber"/>
+      <ReelPos indexes="13,3,10,18,58" symbols="Amber,Amber,Troy,Troy,Amber"/>
+      <ReelPos indexes="13,3,10,18,58" symbols="Amber,Amber,Troy,Troy,Amber"/>
+      <ReelPos indexes="13,3,10,18,58" symbols="Amber,Amber,Troy,Troy,Amber"/>
+      <ReelPos indexes="13,3,10,18,58" symbols="Amber,Amber,Troy,Troy,Amber"/>
+      <ReelPos indexes="13,3,10,18,58" symbols="Amber,Amber,Troy,Troy,Amber"/>
+      <ReelPos indexes="13,3,10,18,58" symbols="Amber,Amber,Troy,Troy,Amber"/>
+      <ReelPos indexes="13,3,10,18,58" symbols="Amber,Amber,Troy,Troy,Amber"/>
+      <ReelPos indexes="13,3,10,18,58" symbols="Amber,Amber,Troy,Troy,Amber"/>
+      <ReelPos indexes="13,3,10,18,58" symbols="Amber,Amber,Troy,Troy,Amber"/>
+      <ReelPos indexes="13,3,10,18,58" symbols="Amber,Amber,Troy,Troy,Amber"/>
+      <ReelPos indexes="13,3,10,18,58" symbols="Amber,Amber,Troy,Troy,Amber"/>
+      <ReelPos indexes="13,3,10,18,58" symbols="Amber,Amber,Troy,Troy,Amber"/>
+      <ReelPos indexes="13,3,10,18,58" symbols="Amber,Amber,Troy,Troy,Amber"/>
+      <ReelPos indexes="13,3,10,18,58" symbols="Amber,Amber,Troy,Troy,Amber"/>
+    </ReelSet>
+    <ReelSet name="Sarah Reels">
+      <ReelPos indexes="6,33,21,65,11" symbols="PenLetter,Ten,Building,Jack,Nine"/>
+      <ReelPos indexes="6,33,21,65,11" symbols="PenLetter,Ten,Building,Jack,Nine"/>
+      <ReelPos indexes="0,0,0,0,0" symbols="ImmortalRomance,ImmortalRomance,ImmortalRomance,ImmortalRomance,ImmortalRomance"/>
+      <ReelPos indexes="6,33,21,65,11" symbols="PenLetter,Ten,Building,Jack,Nine"/>
+      <ReelPos indexes="6,33,21,65,11" symbols="PenLetter,Ten,Building,Jack,Nine"/>
+      <ReelPos indexes="6,33,21,65,11" symbols="PenLetter,Ten,Building,Jack,Nine"/>
+      <ReelPos indexes="6,33,21,65,11" symbols="PenLetter,Ten,Building,Jack,Nine"/>
+      <ReelPos indexes="6,33,21,65,11" symbols="PenLetter,Ten,Building,Jack,Nine"/>
+      <ReelPos indexes="6,33,21,65,11" symbols="PenLetter,Ten,Building,Jack,Nine"/>
+      <ReelPos indexes="6,33,21,65,11" symbols="PenLetter,Ten,Building,Jack,Nine"/>
+      <ReelPos indexes="6,33,21,65,11" symbols="PenLetter,Ten,Building,Jack,Nine"/>
+      <ReelPos indexes="6,33,21,65,11" symbols="PenLetter,Ten,Building,Jack,Nine"/>
+      <ReelPos indexes="6,33,21,65,11" symbols="PenLetter,Ten,Building,Jack,Nine"/>
+      <ReelPos indexes="6,33,21,65,11" symbols="PenLetter,Ten,Building,Jack,Nine"/>
+      <ReelPos indexes="6,33,21,65,11" symbols="PenLetter,Ten,Building,Jack,Nine"/>
+      <ReelPos indexes="6,33,21,65,11" symbols="PenLetter,Ten,Building,Jack,Nine"/>
+      <ReelPos indexes="6,33,21,65,11" symbols="PenLetter,Ten,Building,Jack,Nine"/>
+      <ReelPos indexes="6,33,21,65,11" symbols="PenLetter,Ten,Building,Jack,Nine"/>
+      <ReelPos indexes="6,33,21,65,11" symbols="PenLetter,Ten,Building,Jack,Nine"/>
+      <ReelPos indexes="6,33,21,65,11" symbols="PenLetter,Ten,Building,Jack,Nine"/>
+      <ReelPos indexes="6,33,21,65,11" symbols="PenLetter,Ten,Building,Jack,Nine"/>
+      <ReelPos indexes="6,33,21,65,11" symbols="PenLetter,Ten,Building,Jack,Nine"/>
+      <ReelPos indexes="6,33,21,65,11" symbols="PenLetter,Ten,Building,Jack,Nine"/>
+      <ReelPos indexes="6,33,21,65,11" symbols="PenLetter,Ten,Building,Jack,Nine"/>
+      <ReelPos indexes="6,33,21,65,11" symbols="PenLetter,Ten,Building,Jack,Nine"/>
+    </ReelSet>
+  </Slot>
+</Test>

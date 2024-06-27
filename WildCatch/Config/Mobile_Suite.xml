@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+ 
+<suite name="Parallel test suite" parallel="tests"
+	thread-count="10" verbose="10">
+
+	   <test name="Regression Suite for Device 2">
+		<parameter name="IpAddress" value="127.0.0.1" />
+		<parameter name="DeviceId" value="Galaxy S21 Ultra" />
+		<parameter name="Port" value="4723" />
+		<parameter name="OSVersion" value="8.0.0" />
+		<parameter name="Proxy" value="0" />
+		<parameter name="Username" value="user200" />
+		<parameter name="ZenReplica" value="True" />
+		<parameter name="DeviceName" value="Galaxy S21 Ultra" />
+		<parameter name="Browser" value="chrome" />
+		<parameter name="OSPlatform" value="Android" />
+		<parameter name="GameName" value="WildCatch" />
+		<classes>
+			<class
+				name="com.zensar.automation.framework.driver.MobileDriver" />
+		</classes>
+	</test>  
+  
+ 	<!--   <test name="Regression Suite for Device 1">
+            <parameter name="IpAddress" value="127.0.0.1" />
+            <parameter name="DeviceId" value="00008101-001C094434E0001E"/>
+            <parameter name="Port" value="4723" />
+            <parameter name="OSVersion" value="16.1" />
+            <parameter name="Proxy" value="0" />
+            <parameter name="Username" value="Player895" />
+            <parameter name="ZenReplica" value="True" />
+            <parameter name="DeviceName" value="iPhone13PROMAX" />
+            <parameter name="Browser" value="safari" />
+            <parameter name="OSPlatform" value="iOS" />
+            <parameter name="GameName" value="WildCatch"/>
+        <classes>
+            <class name="com.zensar.automation.framework.driver.MobileDriver" />
+        </classes>
+    </test> 
+  -->
+</suite>
+      
+    
+        
+
+   

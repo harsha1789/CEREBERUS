@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><!-- User ID 	 : ZENDER\sj46487--><!-- Date 	 : 19-May-2021 15:30:47--><Test>
+  <Key clientID="50300" loginName="Zen_syzuwie" moduleID="15066"/>
+  <Slot>
+    <ReelSet name="Normal Reels">
+      <ReelPos indexes="14,0,7,47,3" symbols="Scatter,ImmortalRomance,Scatter,Scatter,Queen"/>
+    </ReelSet>
+    <ReelSet name="Amber Reels">
+      <ReelPos indexes="0,0,0,0,0" symbols="ImmortalRomance,ImmortalRomance,ImmortalRomance,ImmortalRomance,ImmortalRomance"/>
+      <ReelPos indexes="3,4,0,0,0" symbols="Queen,Ten,ImmortalRomance,ImmortalRomance,ImmortalRomance"/>
+      <ReelPos indexes="3,4,0,0,0" symbols="Queen,Ten,ImmortalRomance,ImmortalRomance,ImmortalRomance"/>
+      <ReelPos indexes="3,4,0,0,0" symbols="Queen,Ten,ImmortalRomance,ImmortalRomance,ImmortalRomance"/>
+      <ReelPos indexes="3,4,0,0,0" symbols="Queen,Ten,ImmortalRomance,ImmortalRomance,ImmortalRomance"/>
+      <ReelPos indexes="3,4,0,0,0" symbols="Queen,Ten,ImmortalRomance,ImmortalRomance,ImmortalRomance"/>
+      <ReelPos indexes="3,4,0,0,0" symbols="Queen,Ten,ImmortalRomance,ImmortalRomance,ImmortalRomance"/>
+      <ReelPos indexes="3,4,0,0,0" symbols="Queen,Ten,ImmortalRomance,ImmortalRomance,ImmortalRomance"/>
+      <ReelPos indexes="3,4,0,0,0" symbols="Queen,Ten,ImmortalRomance,ImmortalRomance,ImmortalRomance"/>
+      <ReelPos indexes="3,4,0,0,0" symbols="Queen,Ten,ImmortalRomance,ImmortalRomance,ImmortalRomance"/>
+    </ReelSet>
+  </Slot>
+  <TriggerConditions>
+    <TriggerCondition id="0,0" randomValues="1"/>
+  </TriggerConditions>
+  <Bonus name="Spin The Wheel">
+    <Play>
+      <Picks>
+        <Pick resultIds="4"/>
+      </Picks>
+      <BonusGamble player="0" system="0"/>
+    </Play>
+  </Bonus>
+</Test>

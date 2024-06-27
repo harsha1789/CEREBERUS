@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-23T12:59:21 IST" name="Parallel test suite" finished-at="2024-05-23T12:59:27 IST" duration-ms="6204">
+    <groups>
+    </groups>
+    <test started-at="2024-05-23T12:59:21 IST" name="Regression Suite for Device 11" finished-at="2024-05-23T12:59:27 IST" duration-ms="6204">
+      <class name="com.zensar.automation.framework.driver.DesktopDriver">
+        <test-method signature="test(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.zensar.automation.framework.driver.DesktopDriver@4007f65e]" started-at="2024-05-23T12:59:21 IST" name="test" finished-at="2024-05-23T12:59:27 IST" duration-ms="6154" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[harsha83]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[WildCatch]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.zensar.automation.framework.driver.DesktopDriver@4007f65e]" started-at="2024-05-23T12:59:27 IST" name="closeBrowser" finished-at="2024-05-23T12:59:27 IST" duration-ms="10" status="FAIL">
+          <exception class="java.lang.NullPointerException">
+            <message>
+              <![CDATA[Cannot invoke "String.length()" because "text" is null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException: Cannot invoke "String.length()" because "text" is null
+at java.base/java.text.SimpleDateFormat.parse(SimpleDateFormat.java:1474)
+at java.base/java.text.DateFormat.parse(DateFormat.java:397)
+at com.zensar.automation.framework.report.Desktop_HTML_Report.buildAutomationSummary(Desktop_HTML_Report.java:557)
+at com.zensar.automation.framework.driver.DesktopDriver.closeBrowser(DesktopDriver.java:458)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:655)
+at org.testng.TestRunner.afterRun(TestRunner.java:818)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:463)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:64)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.zensar.automation.framework.driver.DesktopDriver -->
+    </test> <!-- Regression Suite for Device 11 -->
+  </suite> <!-- Parallel test suite -->
+</testng-results>

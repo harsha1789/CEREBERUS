@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="10" parallel="tests" name="Failed suite [Parallel test suite]" guice-stage="DEVELOPMENT" verbose="10">
+  <test thread-count="10" parallel="tests" name="Regression Suite for Device 2(failed)" verbose="10">
+    <parameter name="Proxy" value="0"/>
+    <parameter name="Username" value="user200"/>
+    <parameter name="DeviceId" value="R5CT32TPARB"/>
+    <parameter name="OSPlatform" value="Android"/>
+    <parameter name="Port" value="4723"/>
+    <parameter name="OSVersion" value="8.0.0"/>
+    <parameter name="GameName" value="WildCatch"/>
+    <parameter name="IpAddress" value="127.0.0.1"/>
+    <parameter name="ZenReplica" value="True"/>
+    <parameter name="DeviceName" value="SamsungGalaxyS8Plus"/>
+    <parameter name="Browser" value="chrome"/>
+    <classes>
+      <class name="com.zensar.automation.framework.driver.MobileDriver">
+        <methods>
+          <include name="afterSuite"/>
+          <include name="test" invocation-numbers="0"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- com.zensar.automation.framework.driver.MobileDriver -->
+    </classes>
+  </test> <!-- Regression Suite for Device 2(failed) -->
+  <test thread-count="10" parallel="tests" name="Regression Suite for Device 1(failed)" verbose="10">
+    <parameter name="Proxy" value="0"/>
+    <parameter name="Username" value="Player895"/>
+    <parameter name="DeviceId" value="098d5077472fcb0e48c81b6840d05cfbfaca1902"/>
+    <parameter name="OSPlatform" value="iOS"/>
+    <parameter name="Port" value="4723"/>
+    <parameter name="OSVersion" value="16.1"/>
+    <parameter name="GameName" value="WildCatch"/>
+    <parameter name="IpAddress" value="127.0.0.1"/>
+    <parameter name="ZenReplica" value="True"/>
+    <parameter name="DeviceName" value="iPhone13PROMAX"/>
+    <parameter name="Browser" value="safari"/>
+    <classes>
+      <class name="com.zensar.automation.framework.driver.MobileDriver">
+        <methods>
+          <include name="afterSuite"/>
+          <include name="test" invocation-numbers="0"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- com.zensar.automation.framework.driver.MobileDriver -->
+    </classes>
+  </test> <!-- Regression Suite for Device 1(failed) -->
+</suite> <!-- Failed suite [Parallel test suite] -->

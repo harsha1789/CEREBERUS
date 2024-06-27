@@ -1,0 +1,1235 @@
+{
+  "portrait": {
+  "Dimension": {"x" : 1080,"y":2220  },
+    "Images": [
+      {
+        "id": "Autoplay",
+        "name": "Autoplay.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "ErrorImage",
+        "name": "ErrorImage.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      }, 
+      {
+        "id": "ErrorDialog",
+        "name": "ErrorDialog.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      }, 
+      {
+        "id": "AutoplayStop",
+        "name": "AutoplayStop.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      }, 
+		{
+        "id": "AutoplayText",
+        "name": "AutoplayText.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },  	  
+      {
+        "id": "BetClicked",
+        "name": "BetClicked.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "BetMenu",
+        "name": "BetMenu.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "HelpClose",
+        "name": "HelpClose.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "HelpInMenu",
+        "name": "HelpInMenu.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "Menu",
+        "name": "Menu.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "MenuBack",
+        "name": "MenuBack.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "Paytable",
+        "name": "Paytable.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "PaytableClose",
+        "name": "PaytableClose.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "PaytableImage",
+        "name": "PaytableImage.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "PaytableLastImage",
+        "name": "PaytableLastImage.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "PresetBet",
+        "name": "PresetBet.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "PresetBetValue",
+        "name": "PresetBetValue.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "QuickSpin",
+        "name": "QuickSpin.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "Settings",
+        "name": "Settings.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "Sound",
+        "name": "Sound.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "Spin",
+        "name": "Spin.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "StartAutoplay",
+        "name": "StartAutoplay.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "FreeGameNextOffer",
+        "name": "FreeGameNextOffer.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "FreeGameNextOfferText",
+        "name": "FreeGameNextOfferText.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "FreeGameDiscardOffer",
+        "name": "FreeGameDiscardOffer.PNG",
+        "xMinus": 10,
+        "yMinus": 10,
+        "width": 100,
+        "height": 10
+      },
+      {
+        "id": "FreeGameKeepIt",
+        "name": "FreeGameKeepIt.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "FreeGameDiscardTextButton",
+        "name": "FreeGameDiscardTextButton.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "FreeGameContinueButton",
+        "name": "FreeGameContinueButton.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "FreeGameResumePlayButton",
+        "name": "FreeGameResumePlayButton.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "FreeGameResumePlayText",
+        "name": "FreeGameResumePlayText.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "FreeGameOfferID",
+        "name": "FreeGameOfferID.png",
+        "xMinus": 7,
+        "yMinus": 7,
+        "width": 200,
+        "height": 0
+      },
+      {
+        "id": "FreeGameConsoleBet",
+        "name": "FreeGameConsoleBet.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "BackToGame",
+        "name": "BackToGame.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "FreeGameDiscardOfferQuestion",
+        "name": "FreeGameDiscardOfferQuestion.png",
+        "xMinus": 7,
+        "yMinus": 7,
+        "width": 350,
+        "height": 0
+      },
+      {
+        "id": "FreeGameDiscardOfferWarningText",
+        "name": "FreeGameDiscardOfferWarningText.png",
+        "xMinus": 7,
+        "yMinus": 7,
+        "width": 350,
+        "height": 0
+      },
+      {
+        "id": "FreeGameKeepItText",
+        "name": "FreeGameKeepItText.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "FreeGameDiscardOfferText",
+        "name": "FreeGameDiscardOfferText.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "FreeGameWinAmountText",
+        "name": "FreeGameWinAmountText.png",
+        "xMinus": 7,
+        "yMinus": 7,
+        "width": 160,
+        "height": 0
+      },
+      {
+        "id": "AutoplayOption10x",
+        "name": "AutoplayOption10x.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "AutoplayOption25x",
+        "name": "AutoplayOption25x.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "AutoplayOption50x",
+        "name": "AutoplayOption50x.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "AutoplayOption100x",
+        "name": "AutoplayOption100x.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+	  {
+        "id": "CurrencySymbol",
+        "name": "CurrencySymbol.PNG",
+        "xMinus": 7,
+        "yMinus": 7,
+        "width": 160,
+        "height": 0
+      },
+	  {
+        "id": "FreeGameSummaryYouWonText",
+        "name": "FreeGameSummaryYouWonText.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 160,
+        "height": 0
+      },
+	  {
+        "id": "SummaryWinFreeGameCompleted",
+        "name": "SummaryWinFreeGameCompleted.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 160,
+        "height": 0
+      },	  
+	  {
+        "id": "BackToGameText",
+        "name": "BackToGameText.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 160,
+        "height": 0
+      },
+	  {
+        "id": "NextOfferText",
+        "name": "NextOfferText.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 160,
+        "height": 0
+      },
+	  {
+        "id": "FreeGameSummaryLogo",
+        "name": "FreeGameSummaryLogo.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+	  {
+        "id": "AutoplayOn",
+        "name": "AutoplayOn.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      }
+    ]
+    
+  },
+  "landscape": {
+  "Dimension": {"x" : 2220,"y":1080  },
+    "Images": [
+      {
+        "id": "Autoplay",
+        "name": "Autoplay.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "ErrorImage",
+        "name": "ErrorImage.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      }, 
+      {
+        "id": "ErrorDialog",
+        "name": "ErrorDialog.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      }, 
+      {
+        "id": "AutoplayStop",
+        "name": "AutoplayStop.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "AutoplayText",
+        "name": "AutoplayText.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+	   {
+        "id": "BetClicked",
+        "name": "BetClicked.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+	   {
+        "id": "BetMenu",
+        "name": "BetMenu.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "HelpClose",
+        "name": "HelpClose.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "HelpInMenu",
+        "name": "HelpInMenu.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "Menu",
+        "name": "Menu.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "MenuBack",
+        "name": "MenuBack.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "Paytable",
+        "name": "Paytable.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "PaytableClose",
+        "name": "PaytableClose.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "PaytableImage",
+        "name": "PaytableImage.PNG",
+         "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "PaytableLastImage",
+        "name": "PaytableLastImage.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "PresetBet",
+        "name": "PresetBet.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "PresetBetValue",
+        "name": "PreSetBetValue.PNG",
+		"xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "QuickSpin",
+        "name": "QuickSpin.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "Settings",
+        "name": "Settings.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "Sound",
+        "name": "Sound.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "Spin",
+        "name": "Spin.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "StartAutoplay",
+        "name": "StartAutoplay.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "FreeGameKeepIt",
+        "name": "FreeGameKeepIt.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "FreeGameDiscardTextButton",
+        "name": "FreeGameDiscardTextButton.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "FreeGameContinueButton",
+        "name": "FreeGameContinueButton.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "FreeGameResumePlayButton",
+        "name": "FreeGameResumePlayButton.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "FreeGameOfferID",
+        "name": "FreeGameOfferID.png",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 180,
+        "height": 0
+      },
+      {
+        "id": "FreeGameConsoleBet",
+        "name": "FreeGameConsoleBet.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "BackToGame",
+        "name": "BackToGame.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "FreeGameDiscardOfferQuestion",
+        "name": "FreeGameDiscardOfferQuestion.png",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 180,
+        "height": 0
+      },
+      {
+        "id": "FreeGameDiscardOfferWarningText",
+        "name": "FreeGameDiscardOfferWarningText.png",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 180,
+        "height": 0
+      },
+      {
+        "id": "FreeGameKeepItText",
+        "name": "FreeGameKeepItText.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 180,
+        "height": 0
+      },
+      {
+        "id": "FreeGameDiscardOfferText",
+        "name": "FreeGameDiscardOfferText.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 180,
+        "height": 0
+      },
+      {
+        "id": "FreeGameWinAmountText",
+        "name": "FreeGameWinAmountText.png",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 180,
+        "height": 0
+      },
+      {
+        "id": "AutoplayOption10x",
+        "name": "AutoplayOption10x.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 7,
+        "height": 0
+      },
+      {
+        "id": "AutoplayOption25x",
+        "name": "AutoplayOption25x.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 7,
+        "height": 0
+      },
+      {
+        "id": "AutoplayOption50x",
+        "name": "AutoplayOption50x.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 7,
+        "height": 0
+      },
+      {
+        "id": "AutoplayOption100x",
+        "name": "AutoplayOption100x.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 7,
+        "height": 0
+      },
+	  {
+        "id": "CurrencySymbol",
+        "name": "CurrencySymbol.PNG",
+        "xMinus": 7,
+        "yMinus": 7,
+        "width": 180,
+        "height": 0
+      },
+	  {
+        "id": "FreeGameSummaryYouWonText",
+        "name": "FreeGameSummaryYouWonText.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 180,
+        "height": 0
+      },
+	  {
+        "id": "SummaryWinFreeGameCompleted",
+        "name": "SummaryWinFreeGameCompleted.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 180,
+        "height": 0
+      },	  
+	  {
+        "id": "BackToGameText",
+        "name": "BackToGameText.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 180,
+        "height": 0
+      },
+	  {
+        "id": "NextOfferText",
+        "name": "NextOfferText.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 180,
+        "height": 0
+      },
+	  {
+        "id": "FreeGameSummaryLogo",
+        "name": "FreeGameSummaryLogo.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+	  {
+        "id": "BetButtonON",
+        "name": "BetButtonON.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+	  {
+        "id": "FreeGameBaseDiscard",
+        "name": "FreeGameBaseDiscard.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+	  {
+        "id": "AutoplayOn",
+        "name": "AutoplayOn.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      }
+    ]
+    
+  },
+  "Desktop": {
+  "Dimension": {"x" : 1366,"y":657  },
+    "Images": [
+      {
+        "id": "Autoplay",
+        "name": "Autoplay.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "Autoplay10x",
+        "name": "Autoplay10x.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+	  {
+        "id": "AutoplayText",
+        "name": "AutoplayText.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "AutoplayMenu",
+        "name": "AutoplayMenu.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "AutoplaySlider",
+        "name": "AutoplaySlider.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 30,
+        "height": 0
+      },
+	  {
+        "id": "AutoplaySpinNo",
+        "name": "AutoplaySpinNo.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 100,
+        "height": 0
+      },
+	  {
+        "id": "AutoplayStart",
+        "name": "AutoplayStart.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "AutoplayStop",
+        "name": "AutoplayStop.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "BetButton",
+        "name": "BetButton.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+	  {
+        "id": "BetMenu",
+        "name": "BetMenu.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "BetClicked",
+        "name": "BetClicked.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },		
+      {
+        "id": "BetMax",
+        "name": "BetMax.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+	  {
+        "id": "BetMaxValue",
+        "name": "BetMaxValue.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+	  {
+        "id": "PreSetBetValue",
+        "name": "PreSetBetValue.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+	  {
+        "id": "MinBetValue",
+        "name": "MinBetValue.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "BetMin",
+        "name": "BetMin.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "Bet",
+        "name": "Bet.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": -100,
+        "height": 0
+      },
+	  {
+        "id": "BetText",
+        "name": "BetText.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "Credits",
+        "name": "Credits.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 100,
+        "height": 5
+      },
+      {
+        "id": "GameName",
+        "name": "GameName.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "Help",
+        "name": "Help.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "Home",
+        "name": "Home.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+	  {
+        "id": "InMenuHelp",
+        "name": "InMenuHelp.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "Menu",
+        "name": "Menu.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "Stop",
+        "name": "Stop.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "Paytable",
+        "name": "Paytable.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "QuickSpinOff",
+        "name": "QuickSpinOff.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "QuickSpinOn",
+        "name": "QuickSpinOn.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "Settings",
+        "name": "Settings.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "SettingsText",
+        "name": "SettingsText.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "Spin",
+        "name": "Spin.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+	  {
+        "id": "StartAutoplay",
+        "name": "StartAutoplay.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+	  {
+        "id": "SpinBtn",
+        "name": "SpinBtn.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "PaytableBack",
+        "name": "PaytableBack.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "SoundOff",
+        "name": "SoundOff.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "SoundOn",
+        "name": "SoundOn.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "HelpClose",
+        "name": "HelpClose.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "SpinDisable",
+        "name": "SpinDisable.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "BetMaxConsole",
+        "name": "BetMaxConsole.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "NFDButton",
+        "name": "NFDButton.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "PreviousBet",
+        "name": "PreviousBet.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "NextBet",
+        "name": "NextBet.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+	  {
+        "id": "MaxBet",
+        "name": "MaxBet.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+	  {
+        "id": "PresetBet",
+        "name": "PresetBet.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+	  {
+        "id": "PresetBetValue",
+        "name": "PresetBetValue.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "MaxBetValue",
+        "name": "MaxBetValue.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "PreSetBetButton",
+        "name": "PreSetBetButton.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "BetText",
+        "name": "BetText.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "PreSetBetValue",
+        "name": "PreSetBetValue.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "Toggle",
+        "name": "Toggle.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+	   {
+        "id": "ToggleOff",
+        "name": "ToggleOff.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+	   {
+        "id": "ToggleOn",
+        "name": "ToggleOn.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "id": "MenuClicked",
+        "name": "MenuClicked.PNG",
+        "xMinus": 0,
+        "yMinus": 0,
+        "width": 0,
+        "height": 0
+      }
+    ]
+    
+  },
+  "overlappingCheck": {
+  	"FreeGameEntryScene":["FreeGamesAbout","FreeGamesCongratulations","FreeGamesDiscard","FreeGamesInfo","FreeGamesMenu","FreeGamesPlayLater","FreeGamesPlayNow"],
+    "FreeGameEntryScene-Info":["CashBalanceText","FreeGamesAbout","FreeGamesCongratulations","FreeGamesDiscard","FreeGamesInfo","FreeGamesMenu","FreeGamesPlayLater","FreeGamesPlayNow"],
+    "DiscardOfferScene":["FreeGameDiscardOffer","FreeGameDiscardOfferQuestion","FreeGameDiscardOfferWarningText","FreeGameDiscardTextButton","FreeGameKeepIt"],
+  	"BaseScene":["Spin","Bet","QuickSpin","Menu","AutoplayButton"],
+	   "FreeGameSummaryScene":["FreeGamesCongratulations","FreeGameSummaryYouWonText","CurrencySymbol","BackToGame","SummaryWinFreeGameCompleted"]
+  },
+  
+  "insideCheck": {
+  	"FreeGameEntryScene":[{"innerImage":"FreeGamesPlayNowText","outerImage":"FreeGamesPlayNow"},{"innerImage":"FreeGamesPlayLaterText","outerImage":"FreeGamesPlayLater"}],
+    "DiscardOfferScene":[{"innerImage":"FreeGameKeepItText","outerImage":"FreeGameKeepIt"},{"innerImage":"FreeGameDiscardOfferText","outerImage":"FreeGameDiscardTextButton"}],
+  	"BaseScene":[{"innerImage":"Play5","outerImage":"Play6"},{"innerImage":"Play7","outerImage":"Play8"}],
+	  "FreeGameSummaryScene":[{"innerImage":"BackToGameText","outerImage":"BackToGame"}]
+  },
+  "supportedLanguages":"en,bg,cs",
+  "languageCheck": {
+  	 "FreeGameEntryScene":[{"id":"FreeGamesCongratulations","langKey":"fgOffersCongratulations"},{"id":"FreeGamesPlayNowText","langKey":"fgOffersPlayNow"},{"id":"FreeGamesPlayLaterText","langKey":"fgOffersPlayLater"},{"id":"FreeGamesAbout","langKey":"fgOffersMoreInfoYouHavePlural"}],
+    "FreeGameEntrySceneInfo":[{"id":"FreeGamesCongratulations","langKey":"fgOffersCongratulations"},{"id":"FreeGamesPlayNowText","langKey":"fgOffersPlayNow"},{"id":"FreeGamesPlayLaterText","langKey":"fgOffersPlayLater"},{"id":"FreeGamesAbout","langKey":"fgOffersMoreInfoYouHavePlural"},{"id":"CashBalanceText","langKey":"fgOffersWinningsAddedToCashBalance"}],
+  	"DiscardOfferScene":[{"id":"FreeGameDiscardOfferWarningText","langKey":"fgDiscardInfoTextLine2"},{"id":"FreeGameDiscardOfferQuestion","langKey":"fgDiscardInfoTextLine1"},{"id":"FreeGameDiscardOffer","langKey":"fgDiscardHeader"},{"id":"FreeGameKeepItText","langKey":"fgDiscardKeepIt"},{"id":"FreeGameDiscardOfferText","langKey":"fgDiscardDiscard"}],
+    "BaseScene":[{"id":"Credits","langKey":"consoleCreditsWithOutValue"}],
+	"FreeGameSummaryScene":[{"id":"BackToGameText","langKey":"fgSummaryBackToGame"},{"id":"FreeGameSummaryYouWonText","langKey":"fgSummaryWonHeadingText"},{"id":"SummaryWinFreeGameCompleted","langKey":"fgSummarySubHeadingText"},{"id":"FreeGamesCongratulations","langKey":"fgSummaryHeadingTextEsc"}]
+  }
+}
+

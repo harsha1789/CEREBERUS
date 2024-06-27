@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Parallel test suite" parallel="tests"
+	thread-count="10" verbose="10">
+
+ <test name="Regression Suite for Device 1">
+		<parameter name="IpAddress" value="127.0.0.1" />
+		<parameter name="DeviceId" value ="ce12160c3b6d6a2004"  />
+		<parameter name="Port" value="4723" />
+		<parameter name="OSVersion" value="12.0.0" />
+		<parameter name="Proxy" value="0" />
+		<parameter name="Username" value="user200" />
+		<parameter name="ZenReplica" value="True" />
+		<parameter name="DeviceName" value="Samsung_GalaxyS10_2400" />
+		<parameter name="Browser" value="chrome" />
+		<parameter name="OSPlatform" value="Android" />
+		<parameter name="GameName" value="ArenaOfGold" />
+		<classes>
+			<class
+				name="com.zensar.automation.framework.driver.MobileDriver" />
+		</classes>
+	</test> 
+
+	 <test name="Regression Suite for Device 2">
+        <parameter name="IpAddress" value="127.0.0.1" />
+            <parameter name="DeviceId" value="00008101-000E3C4A1E90001E" />
+            <parameter name="Port" value="4723" />
+            <parameter name="OSVersion" value="15.2" />
+            <parameter name="Proxy" value="0" />
+            <parameter name="Username" value="Player895" />
+            <parameter name="ZenReplica" value="True" />
+            <parameter name="DeviceName" value="Iphone 12 pro max" />
+            <parameter name="Browser" value="safari" />
+            <parameter name="OSPlatform" value="iOS" />
+            <parameter name="GameName" value="ArenaOfGold"/>
+        <classes>
+            <class name="com.zensar.automation.framework.driver.MobileDriver" />
+        </classes>
+    </test> 
+    
+     <test name="Regression Suite for Device 3">
+        <parameter name="IpAddress" value="127.0.0.1" />
+            <parameter name="DeviceId" value="00008020-0015445E0EC1002E" />
+            <parameter name="Port" value="4723" />
+            <parameter name="OSVersion" value="15.2" />
+            <parameter name="Proxy" value="0" />
+            <parameter name="Username" value="Player895" />
+            <parameter name="ZenReplica" value="True" />
+            <parameter name="DeviceName" value="Apple_iPadAir2_mini" />
+            <parameter name="Browser" value="safari" />
+            <parameter name="OSPlatform" value="iOS" />
+            <parameter name="GameName" value="ArenaOfGold"/>
+        <classes>
+            <class name="com.zensar.automation.framework.driver.MobileDriver" />
+        </classes>
+    </test> 
+    
+</suite>
+      
+    
+        
+
+   

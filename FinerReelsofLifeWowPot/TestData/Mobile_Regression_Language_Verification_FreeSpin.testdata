@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><!-- User ID 	 : ZENDER\sj46487--><!-- Date 	 : 19-May-2021 15:30:47--><Test>
+  <Key clientID="40300" loginName="Zen_lbr8mts" moduleID="100488"/>
+  <Slot>
+    <ReelSet name="Normal Reels">
+      <ReelPos indexes="16,16,40,6,10" symbols="Scatter,Scatter,Scatter,Nine,Queen"/>
+    </ReelSet>
+  </Slot>
+  <TriggerConditions>
+    <TriggerCondition id="0,0" randomValues="1"/>
+  </TriggerConditions>
+  <Bonus name="Wheel Bonus">
+    <Play>
+      <Picks>
+        <Pick resultIds="2"/>
+      </Picks>
+      <BonusGamble player="0" system="0"/>
+    </Play>
+  </Bonus>
+</Test>

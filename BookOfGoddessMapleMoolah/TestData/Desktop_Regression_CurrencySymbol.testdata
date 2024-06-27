@@ -1,0 +1,15 @@
+<Test>
+  <Key moduleID="10763" clientID="50300" loginName="harsha83"/>
+  <Slot>
+    <ReelSet name="Normal Reels 1 - Start">
+      <ReelPos symbols="Basket,Basket,Basket,Basket,Basket" indexes="0,6,29,21,12"/>
+      <ReelPos symbols="Woman,Woman,Woman,Woman,Woman" indexes="29,17,3,28,41"/>
+       <ReelPos symbols="Man,Man,Man,Man,Man" indexes="33,8,12,17,26"/>
+      <ReelPos symbols="FreeSpins,FreeSpins,FreeSpins,FreeSpins,FreeSpins" indexes="63,103,71,67,8"/>
+
+	<ReelPos symbols="Basket,Basket,Basket,Basket,Basket" indexes="0,6,29,21,12"/>
+      <ReelPos symbols="Woman,Woman,Woman,Woman,Woman" indexes="29,17,3,28,41"/>
+       <ReelPos symbols="Man,Man,Man,Man,Man" indexes="33,8,12,17,26"/>
+    </ReelSet>
+  </Slot>
+</Test>
