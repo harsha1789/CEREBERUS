@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Parallel test suite" parallel="tests" thread-count="10"
+	verbose="10">
+
+	<!--<test name="Regression Suite for Device 1">
+		<parameter name="Browser" value="Chrome"/>
+		<parameter name="username" value="player102" />
+		<parameter name="OSplatform" value="Windows" />
+		<parameter name="gameName" value="WildCatch"/>
+		<classes>
+			<class name="com.zensar.automation.framework.driver.DesktopDriver" />
+		</classes>
+	</test> -->
+	
+	<test name="Regression Suite for Device 11">
+		<parameter name="Browser" value="Chrome"/>
+		<parameter name="username" value="harsha83" />
+		<parameter name="OSplatform" value="Windows" />
+		<parameter name="gameName" value="WildCatch"/>
+		<classes>
+			<class name="com.zensar.automation.framework.driver.DesktopDriver" />
+		</classes>
+	</test>
+	<!--
+	  <test name="Regression Suite for Device 2"> 
+	 <parameter name="Browser"	value="Chrome" /> 
+	 <parameter name="username" value="player888"/> 
+	 <parameter name="OSplatform" value="Windows" />
+		<parameter name="gameName" value="sureWinScratchDesktop"/>
+	 <classes> 
+		<class name="Driver.DesktopDriver" /> 
+		</classes>
+	 </test>  -->  
+	 
+	<!--  <test name="Regression Suite for Device 3"> 
+	 <parameter name="Browser"	value="Chrome" /> 
+	 <parameter name="username" value="player89"/> 
+	 <parameter name="OSplatform" value="Windows" />
+		<parameter name="gameName" value="immortalRomanceDesktop"/>
+	 <classes> 
+		<class name="Driver.DesktopDriver" /> 
+		</classes>
+	 </test>  -->
+	
+	<!-- <test name="Regression Suite for Device 3"> <parameter name="Browser" 
+		value="firefox" /> <parameter name="username" value="anandb_srm" /> <classes> 
+		<class name="Driver.DesktopDriver" /> </classes> </test> <test name="Regression 
+		Suite for Device 2"> <parameter name="Browser" value="IE" /> <parameter name="username" 
+		value="sashinr_srm"/> <classes> <class name="Driver.DesktopDriver" /> </classes> 
+		</test> -->
+		
+	<!-- <test name="Regression Suite for Device 3"> <parameter name="Browser" 
+		value="firefox" /> <parameter name="username" value="anandb_srm" /> <classes> 
+		<class name="Driver.DesktopDriver" /> </classes> </test> <test name="Regression 
+		Suite for Device 2"> <parameter name="Browser" value="IE" /> <parameter name="username" 
+		value="sashinr_srm"/> <classes> <class name="Driver.DesktopDriver" /> </classes> 
+		</test> -->
+
+</suite>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Parallel test suite" parallel="tests" thread-count="10"
+	verbose="10">
+	
+				
+		<test name="Regression Suite for Device 1">
+			<parameter name="ipAddress" value="127.0.0.1" />
+			<parameter name="deviceid" value="0816087c5c6c1e04" />
+			<parameter name="port" value="4723" />
+			<parameter name="osVersion" value="6.0.1" />
+			<parameter name="proxy" value="0" />
+			<parameter name="username" value="Zen_pl6n9mr" />
+			<parameter name="ZenReplica" value= "True" />
+			<parameter name="DeviceName" value="Galaxy S6 Edge" />
+			<parameter name="LockType" value="Pin" />
+			<parameter name="LockKey" value="12345" />
+			<parameter name="GameName" value="WildCatch" />
+			<parameter name="checkedOutDeviceNum" value="1" />
+			<classes>
+				<class name="Driver.MobileDriver" />
+			</classes>
+		</test>
+			
+		<test name="Regression Suite for Device 2">
+			<parameter name="ipAddress" value="127.0.0.1" />
+			<parameter name="deviceid" value="216daf7811027ece" />
+			<parameter name="port" value="4723" />
+			<parameter name="osVersion" value="6.0.1" />
+			<parameter name="proxy" value="0" />
+			<parameter name="username" value="Zen_8i317kz" />
+			<parameter name="ZenReplica" value= "True" />
+			<parameter name="DeviceName" value="Galaxy S9+" />
+			<parameter name="LockType" value="Pin" />
+			<parameter name="LockKey" value="12345" />
+			<parameter name="GameName" value="WackyPanda" />
+			<parameter name="checkedOutDeviceNum" value="2" />
+			<classes>
+				<class name="Driver.MobileDriver" />
+			</classes>
+		</test>
+			
+		<test name="Regression Suite for Device 3">
+			<parameter name="ipAddress" value="127.0.0.1" />
+			<parameter name="deviceid" value="ce031713e950349d0c" />
+			<parameter name="port" value="4723" />
+			<parameter name="osVersion" value="6.0.1" />
+			<parameter name="proxy" value="0" />
+			<parameter name="username" value="Zen_8yw6pgd" />
+			<parameter name="ZenReplica" value= "True" />
+			<parameter name="DeviceName" value="Galaxy S8" />
+			<parameter name="LockType" value="Pin" />
+			<parameter name="LockKey" value="12345" />
+			<parameter name="GameName" value="WackyPanda" />
+			<parameter name="checkedOutDeviceNum" value="3" />
+			<classes>
+				<class name="Driver.MobileDriver" />
+			</classes>
+		</test>
+
+ </suite>

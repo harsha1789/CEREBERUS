@@ -1,0 +1,89 @@
+<!DOCTYPE html><head>
+
+
+<style type='text/css'> 
+body 
+{font-size: 70%;color:#000000;margin:10px;background-color:#ffffff;}
+body, p, h1, h2, h3, table, td, th, ul, ol, textarea, input 
+{font-family: verdana,helvetica,arial,sans-serif;}
+table, input, textarea {font-size: 100%;}
+table.reportheader 
+{font-size: 150%;font-weight:bold;text-align:left;color:#992233;padding:3px;border:0px none;border-collapse:collapse;}
+table.teststeps 
+{background-color:White;color:#000000;border:1px solid #000000;border-collapse:collapse;}
+table.subheader 
+{font-size: 100%;font-weight:bold;color: Black;border:0px;background-color:transparent;border-collapse:collapse;}
+table.tbtime 
+{background-color:#FFFFCC;color:#000000;border:1px solid #000000;border-collapse:collapse;left:660px;}
+table.releasesummary 
+{background-color:#153E7E;color:#000000;border:1px solid #000000;border-collapse:collapse;position:absolute;left:335px;}
+table.pfsummary 
+{background-color:#153E7E;color:#000000;border:1px solid #000000;border-collapse:collapse;position:absolute;left:335px;}
+table.tblinks 
+{background-color:#FFFFCC;color:#000000;border:1px solid #000000;border-collapse:collapse;}
+td.subheader 
+{font-size:120%;font-weight:bold;padding-top:5px;padding-bottom:1px;background-color:transparent;}
+td.subcontents 
+{font-size:120%;padding-top:1px;padding-bottom:1px;background-color:transparent;}
+td.tsheader 
+{color:White;background-color:#153E7E;font-size: 120%;font-weight:bold;padding: 0px 0px 0px 0px;border:1px solid #000000;height:40px}
+td.releaseheader 
+{color:#ffffgg;background-color:#153E7E;font-size: 120%;font-weight:bold;text-align:center;padding: 1px 0px 0px 0px;border:1px solid #000000;}
+td.tsgen 
+{font-size: 100%;font-weight:normal;padding-left:2px;border:1px solid #000000;}
+td.tsgenfail 
+{font-size: 100%;font-weight:bold;color:red;padding-left:2px;border:1px solid #000000;}
+td.tsgenlevel1 
+{font-size: 100%;font-weight:normal;padding-left:2px;border:1px solid #000000;background-color: White;}
+td.tsgenfaillevel1 
+{font-size: 100%;font-weight:bold;color:red;padding-left:2px;border:1px solid #000000;background-color: White;}
+td.tsind 
+{font-size: 100%;font-weight:normal;padding-left:15px;padding-right: 2px;border:1px solid #000000;}
+td.tsindfail 
+{font-size: 100%;font-weight:bold;color:red;padding-left:15px;padding-right: 2px;border:1px solid #000000;}
+td.tsindlevel1 
+{font-size: 100%;font-weight:normal;padding-left:15px;padding-right: 2px;border:1px solid #000000;background-color: White;}
+td.tsindfaillevel1 
+{font-size: 100%;font-weight:bold;color:red;padding-left:15px;padding-right: 2px;border:1px solid #000000;background-color: White;}
+td.tsindlevel2 
+{font-size: 100%;font-weight:normal;padding-left:25px;padding-right: 2px;border:1px solid #000000;}
+td.tsindfaillevel2 
+{font-size: 100%;font-weight:bold;color:red;padding-left:25px;padding-right: 2px;border:1px solid #000000;}
+td.tsindlevel3 
+{font-size: 100%;font-weight:normal;padding-left:35px;padding-right: 2px;border:1px solid #000000;}
+td.tsindfaillevel3 
+{font-size: 100%;font-weight:bold;color:red;padding-left:35px;padding-right: 2px;border:1px solid #000000;}
+td.tsinfo 
+{font-size: 100%;font-weight:bold;color:Green;padding-left:2px;border: 1px solid #000000;border-left solid none}
+td.tswarning 
+{font-size: 100%;font-weight:bold;color:OrangeRed;padding-left:2px;border: 1px solid #000000;border-left solid none}
+td.tsimgalert 
+{font-size: 100%;font-weight:bold;color:OrangeRed;text-align:center;border: 1px solid #000000;border-right solid none}
+td.pfhead 
+{color:#000000;background-color:White;font-size: 120%;font-weight:bold;text-align:center;border:1px solid #000000;}
+td.pfind 
+{background-color:White;font-size: 100%;font-weight:normal;padding-left:20px;border:1px solid #000000;}
+hr.divline 
+{width:900px;border:1px solid DarkGreen;margin-top: 4px;}
+h3.indexhead 
+{margin: 10px 2px 2px 2px;font-size: 150%;}
+b.highlight 
+{font-size: 125%;}
+div {width:100%;}
+a.anibutton:link, a.anibutton:visited 
+{color: #000000;border: 0px none;text-align: center;background-color:transparent;text-decoration: none;padding: 0px 0px 0px 0px;}
+a.anibutton:hover 
+{color: #0000FF;border: 2px outset;background-color:transparent;text-decoration: none;padding: 1px 1px 1px 1px;line-height: 100%;}
+img.screen 
+{width: 20px; align:center; height: 20px;border: 0px none;background-color:transparent;}
+img.message 
+{width: 32px;height: 32px;border: 3px 3px 3px 3px;background-color:transparent;}
+</style>
+</head><table align=center width=900px><tr><td width=900px><img src="file:///.\WildCatch\Reports\Default\Images/Top_Logo.GIF"></td></tr></table>
+</html>
+<script>var txt='<title>Automation summary</title><table width=900px align=center class=reportheader><tr><td height=50px>Zensar Technologies<BR><td height=50px align=center>India</td></tr></table>'; document.write(txt);</script>
+</head><table align=center width=900px><tr><td width=900px><img src="./Images/Bottom.GIF"></td></tr></table>
+<script>var txt='<br><br><table align=center width=900px class=teststeps id="summary_table"><tr><td align=center width=100px class=tsheader>Test_Case</td><td width=80px class=tsheader>Module</td><td width=200px class=tsheader>Description</td><td width=70px class=tsheader>Steps</td><td width=70px class=tsheader>Passed</td><td width=70px class=tsheader>Failed</td><td width=70px class=tsheader>Warnings</td><td width=70px class=tsheader>Status</td></tr>'; document.write(txt);</script>
+<script>var txt='<tr><td width=100px align=center class=tsgen><a class=tcindex href="./Regression/20230714_145121_Chrome_WildCatchDesktop_Desktop_Regression_Pack_PlayNext_BaseScene.html">20230714_145121_Chrome_WildCatchDesktop_Desktop_Regression_Pack_PlayNext_BaseScene</a></td><td width=80px class=tsgen>Regression</td><td width=200px class=tsgen>Desktop_Regression_Pack_PlayNext_BaseScene</td><td width=70px align=center class=tsgen>4</td><td width=70px align=center class=tsgen>4</td><td width=70px align=center class=tsgen>0</td><td width=70px align=center class=tsgen>0</td><td width=70px align=center class=tsgen><b><font size = 2 color = green>PASS</td></tr>'; document.write(txt);</script>
+
+<script>var txt='</table><br><br><table width=900px align=center><tr><td width=650px></td><td colspan=2 class=tsheader>Execution Time</td></tr><tr><td width=650px></td><td class=pfhead width=120px>Start Time</td><td class=pfind width=130px>14/07/2023 14:51:21</td></tr><tr><td width=650px></td><td class=pfhead width=120px>End Time</td><td class=pfind width=130px>14/07/2023 15:39:15</td></tr><tr><td width=650px></td><td class=pfhead width=120px>Duration</td><td class=pfind width=130px>2874.0 secs</td></tr></table>'; document.write(txt);</script>

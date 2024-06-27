@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Test>
+  <Key clientID="50300" loginName="Zen_6vrbybl" moduleID="10763"/>
+  <Slot>
+    <ReelSet name="Normal Reels 1 - Start">
+      <ReelPos indexes="0,0,2,28,0" symbols="Basket,Man,Woman,Woman,Woman"/>
+      <ReelPos indexes="0,6,29,28,0" symbols="Basket,Basket,Basket,Woman,Woman"/>
+      <ReelPos indexes="29,16,37,28,0" symbols="Woman,Woman,Woman,Woman,Woman"/>
+      <ReelPos indexes="8,48,22,0,0" symbols="FreeSpins,FreeSpins,FreeSpins,Couple,Woman"/>
+    </ReelSet>
+  </Slot>
+</Test>

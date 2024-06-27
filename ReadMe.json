@@ -1,0 +1,68 @@
+VERSION - 1 
+DATE - 13/6/2023
+
+@Author - Priyanka Bethi
+
+=========== Context ============
+- Pushed Desktop and mobile sanity scripts with added refresh scenarios 
+- Generic market script and methods for scenarios which includes
+1.Info bar
+2.Top bar
+3.Spin
+4.Quick spin
+5.Value Adds
+6.BetPanel
+7.Menu Panel
+8.Paytable
+9.Settings
+10.Autoplay
+11.Session Reminder
+12.Bonus Funds Notification
+13.Banking
+14.Net Position
+
+============== JAR ==================
+Path - https://crush.gameassists.co.uk/#/Automation%20SS/JAR_FILES/
+
+ZAF_GridAuth5.10.jar
+
+****************************************************************************
+
+VERSION - 1.1
+DATE - 14/06//2023
+
+@Author - Shrikant Pawar
+Generic market script and methods for scenarios which includes
+1. Free Games scenarios
+	1. Assign FG
+	2. Play Later FG
+	3. Delete Offer
+	4. Accept offer and play spins
+	5. Resume FG play
+	6. FG Summary
+
+*********************************************************************
+
+VERSION - 1.2
+DATE - 20/6/2023
+
+@Author - Priyanka Bethi
+
+=========== Context ============
+- Modified Scripts for Desktop and Mobile - Sanity, Regression and Free Games 
+	1. Desktop_Sanity_UI_PlayNext_Modified
+	2. Desktop_Regression_Pack_PlayNext_BaseScene_Modified
+	3. Desktop_Regression_Pack_PlayNext_FreeGames_Modified
+	4. Mobile_Sanity_UI_PlayNext_Modified
+	5. Mobile_Regression_Pack_PlayNext_BaseScene_Modified
+	6. Mobile_Regression_Pack_PlayNext_FreeGames_Modified
+- Added methods for modified scripts for mobile and desktop
+- Minor Changes in Generic market script
+
+============== JAR ==================
+Path - https://crush.gameassists.co.uk/#/Automation%20SS/JAR_FILES/
+
+ZAF_GridAuth6.jar
+
+************************************************************************
+

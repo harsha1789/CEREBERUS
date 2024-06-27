@@ -1,0 +1,531 @@
+[INFO] 2023-07-17 12:11:42,002 [main]  com.zensar.automation.library.TestPropReader loadAllProperties - Loading all properties in progress..
+[INFO] 2023-07-17 12:11:42,004 [main]  com.zensar.automation.framework.library.PropertyReader loadDefaultProperties - Loading default properties file...
+[DEBUG] 2023-07-17 12:11:42,004 [main]  com.zensar.automation.framework.library.PropertyReader loadDefaultProperties - Default properties file path=.\Default.properties
+[INFO] 2023-07-17 12:11:42,005 [main]  com.zensar.automation.framework.library.PropertyReader loadDefaultProperties - loading completed for Default properties
+[INFO] 2023-07-17 12:11:42,005 [main]  com.zensar.automation.framework.library.PropertyReader loadGameProperties - Loading Test Environment properties file..
+[DEBUG] 2023-07-17 12:11:42,007 [main]  com.zensar.automation.framework.library.PropertyReader loadGameProperties - Test Environment properties file path=./WildCatch\Config\TestEnv.properties
+[INFO] 2023-07-17 12:11:42,008 [main]  com.zensar.automation.framework.library.PropertyReader loadGameProperties - loading completed for Test Environment properties
+[INFO] 2023-07-17 12:11:42,305 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - Automation Execution stared for mobile....
+[INFO] 2023-07-17 12:11:42,305 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - Automation Execution stared for mobile....
+[INFO] 2023-07-17 12:11:42,307 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - Selenium Grid Url :: http://10.120.87.248:4444/wd/hub
+[INFO] 2023-07-17 12:11:42,307 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - Selenium Grid Url :: http://10.120.87.248:4444/wd/hub
+[INFO] 2023-07-17 12:11:42,308 [TestNG-tests-1]  com.zensar.automation.framework.library.Global cfnRootPath - Setting nessary path....
+[INFO] 2023-07-17 12:11:42,308 [TestNG-tests-2]  com.zensar.automation.framework.library.Global cfnRootPath - Setting nessary path....
+[INFO] 2023-07-17 12:11:42,443 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-07-17 12:11:42,445 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-07-17 12:11:42,445 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-07-17 12:11:42,446 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-07-17 12:11:42,448 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - Run flag found true...
+[INFO] 2023-07-17 12:11:42,450 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-07-17 12:11:42,452 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-07-17 12:11:42,453 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - Run flag found true...
+[DEBUG] 2023-07-17 12:11:42,463 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - randomWait :: 10326
+[DEBUG] 2023-07-17 12:11:45,467 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - randomWait :: 22628
+[ERROR] 2023-07-17 12:11:53,559 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - Exception in Mobile Driver
+org.openqa.selenium.SessionNotCreatedException: Unable to create a new remote session. Please check the server log for more details. Original error: Error forwarding the new session Device is currently busy, please try again later !! : R5CT32TPARB
+Command duration or timeout: 501 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50N0099', ip: '10.216.75.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: driver.version: MobileDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50N0099', ip: '10.216.75.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: driver.version: MobileDriver
+	at io.appium.java_client.remote.AppiumCommandExecutor$1.createSession(AppiumCommandExecutor.java:216)
+	at io.appium.java_client.remote.AppiumCommandExecutor.createSession(AppiumCommandExecutor.java:225)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+	at io.appium.java_client.AppiumDriver.startSession(AppiumDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+	at io.appium.java_client.DefaultGenericMobileDriver.<init>(DefaultGenericMobileDriver.java:37)
+	at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:89)
+	at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:99)
+	at io.appium.java_client.android.AndroidDriver.<init>(AndroidDriver.java:97)
+	at com.zensar.automation.framework.driver.MobileDriver.test(MobileDriver.java:230)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:848)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:481)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at io.appium.java_client.remote.AppiumCommandExecutor$1.createSession(AppiumCommandExecutor.java:193)
+	... 36 more
+Caused by: org.openqa.selenium.WebDriverException: Error forwarding the new session Device is currently busy, please try again later !! : R5CT32TPARB
+Command duration or timeout: 501 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50N0099', ip: '10.216.75.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: driver.version: MobileDriver
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.JsonWireProtocolResponse.lambda$errorHandler$0(JsonWireProtocolResponse.java:54)
+	at org.openqa.selenium.remote.HandshakeResponse.lambda$getResponseFunction$0(HandshakeResponse.java:30)
+	at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:126)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.Spliterators$ArraySpliterator.tryAdvance(Spliterators.java:1002)
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:129)
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:527)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:513)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:150)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:647)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:128)
+	... 41 more
+Caused by: org.openqa.grid.common.exception.GridException: Error forwarding the new session Device is currently busy, please try again later !! : R5CT32TPARB
+	at org.openqa.grid.web.servlet.handler.RequestHandler.process(RequestHandler.java:118)
+	at org.openqa.grid.web.servlet.DriverServlet.process(DriverServlet.java:85)
+	at org.openqa.grid.web.servlet.DriverServlet.doPost(DriverServlet.java:69)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.seleniumhq.jetty9.servlet.ServletHolder.handle(ServletHolder.java:865)
+	at org.seleniumhq.jetty9.servlet.ServletHandler.doHandle(ServletHandler.java:535)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.handle(ScopedHandler.java:146)
+	at org.seleniumhq.jetty9.security.SecurityHandler.handle(SecurityHandler.java:548)
+	at org.seleniumhq.jetty9.server.handler.HandlerWrapper.handle(HandlerWrapper.java:132)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:257)
+	at org.seleniumhq.jetty9.server.session.SessionHandler.doHandle(SessionHandler.java:1595)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:255)
+	at org.seleniumhq.jetty9.server.handler.ContextHandler.doHandle(ContextHandler.java:1340)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextScope(ScopedHandler.java:203)
+	at org.seleniumhq.jetty9.servlet.ServletHandler.doScope(ServletHandler.java:473)
+	at org.seleniumhq.jetty9.server.session.SessionHandler.doScope(SessionHandler.java:1564)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextScope(ScopedHandler.java:201)
+	at org.seleniumhq.jetty9.server.handler.ContextHandler.doScope(ContextHandler.java:1242)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.handle(ScopedHandler.java:144)
+	at org.seleniumhq.jetty9.server.handler.HandlerWrapper.handle(HandlerWrapper.java:132)
+	at org.seleniumhq.jetty9.server.Server.handle(Server.java:503)
+	at org.seleniumhq.jetty9.server.HttpChannel.handle(HttpChannel.java:364)
+	at org.seleniumhq.jetty9.server.HttpConnection.onFillable(HttpConnection.java:260)
+	at org.seleniumhq.jetty9.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:305)
+	at org.seleniumhq.jetty9.io.FillInterest.fillable(FillInterest.java:103)
+	at org.seleniumhq.jetty9.io.ChannelEndPoint$2.run(ChannelEndPoint.java:118)
+	at org.seleniumhq.jetty9.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:333)
+	at org.seleniumhq.jetty9.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:310)
+	at org.seleniumhq.jetty9.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:168)
+	at org.seleniumhq.jetty9.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:126)
+	at org.seleniumhq.jetty9.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:366)
+	at org.seleniumhq.jetty9.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:765)
+	at org.seleniumhq.jetty9.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:683)
+	at java.lang.Thread.run(Thread.java:748)
+[ERROR] 2023-07-17 12:12:08,811 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - Exception in Mobile Driver
+org.openqa.selenium.SessionNotCreatedException: Unable to create a new remote session. Please check the server log for more details. Original error: Error forwarding the new session cannot find : Capabilities {appium:autoWebview: true, appium:nativeWebTap: true, appium:newCommandTimeout: 600000, appium:showIOSLog: true, appium:showXcodeLog: true, browserName: safari, deviceName: iPhone13PROMAX, devicefarm:authToken: 75c86806dd79464f82346240ed9..., platformName: ios, platformVersion: 16.1, udid: 098d5077472fcb0e48c81b6840d...}
+Command duration or timeout: 698 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50N0099', ip: '10.216.75.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: driver.version: MobileDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50N0099', ip: '10.216.75.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: driver.version: MobileDriver
+	at io.appium.java_client.remote.AppiumCommandExecutor$1.createSession(AppiumCommandExecutor.java:216)
+	at io.appium.java_client.remote.AppiumCommandExecutor.createSession(AppiumCommandExecutor.java:225)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.ios.IOSDriver.execute(IOSDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+	at io.appium.java_client.AppiumDriver.startSession(AppiumDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+	at io.appium.java_client.DefaultGenericMobileDriver.<init>(DefaultGenericMobileDriver.java:37)
+	at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:89)
+	at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:99)
+	at io.appium.java_client.ios.IOSDriver.<init>(IOSDriver.java:90)
+	at com.zensar.automation.framework.driver.MobileDriver.test(MobileDriver.java:265)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:848)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:481)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at io.appium.java_client.remote.AppiumCommandExecutor$1.createSession(AppiumCommandExecutor.java:193)
+	... 36 more
+Caused by: org.openqa.selenium.WebDriverException: Error forwarding the new session cannot find : Capabilities {appium:autoWebview: true, appium:nativeWebTap: true, appium:newCommandTimeout: 600000, appium:showIOSLog: true, appium:showXcodeLog: true, browserName: safari, deviceName: iPhone13PROMAX, devicefarm:authToken: 75c86806dd79464f82346240ed9..., platformName: ios, platformVersion: 16.1, udid: 098d5077472fcb0e48c81b6840d...}
+Command duration or timeout: 698 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50N0099', ip: '10.216.75.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: driver.version: MobileDriver
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.JsonWireProtocolResponse.lambda$errorHandler$0(JsonWireProtocolResponse.java:54)
+	at org.openqa.selenium.remote.HandshakeResponse.lambda$getResponseFunction$0(HandshakeResponse.java:30)
+	at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:126)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.Spliterators$ArraySpliterator.tryAdvance(Spliterators.java:1002)
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:129)
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:527)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:513)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:150)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:647)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:128)
+	... 41 more
+Caused by: org.openqa.grid.common.exception.GridException: Error forwarding the new session cannot find : Capabilities {appium:autoWebview: true, appium:nativeWebTap: true, appium:newCommandTimeout: 600000, appium:showIOSLog: true, appium:showXcodeLog: true, browserName: safari, deviceName: iPhone13PROMAX, devicefarm:authToken: 75c86806dd79464f82346240ed9..., platformName: ios, platformVersion: 16.1, udid: 098d5077472fcb0e48c81b6840d...}
+	at org.openqa.grid.web.servlet.handler.RequestHandler.process(RequestHandler.java:118)
+	at org.openqa.grid.web.servlet.DriverServlet.process(DriverServlet.java:85)
+	at org.openqa.grid.web.servlet.DriverServlet.doPost(DriverServlet.java:69)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.seleniumhq.jetty9.servlet.ServletHolder.handle(ServletHolder.java:865)
+	at org.seleniumhq.jetty9.servlet.ServletHandler.doHandle(ServletHandler.java:535)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.handle(ScopedHandler.java:146)
+	at org.seleniumhq.jetty9.security.SecurityHandler.handle(SecurityHandler.java:548)
+	at org.seleniumhq.jetty9.server.handler.HandlerWrapper.handle(HandlerWrapper.java:132)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:257)
+	at org.seleniumhq.jetty9.server.session.SessionHandler.doHandle(SessionHandler.java:1595)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:255)
+	at org.seleniumhq.jetty9.server.handler.ContextHandler.doHandle(ContextHandler.java:1340)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextScope(ScopedHandler.java:203)
+	at org.seleniumhq.jetty9.servlet.ServletHandler.doScope(ServletHandler.java:473)
+	at org.seleniumhq.jetty9.server.session.SessionHandler.doScope(SessionHandler.java:1564)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextScope(ScopedHandler.java:201)
+	at org.seleniumhq.jetty9.server.handler.ContextHandler.doScope(ContextHandler.java:1242)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.handle(ScopedHandler.java:144)
+	at org.seleniumhq.jetty9.server.handler.HandlerWrapper.handle(HandlerWrapper.java:132)
+	at org.seleniumhq.jetty9.server.Server.handle(Server.java:503)
+	at org.seleniumhq.jetty9.server.HttpChannel.handle(HttpChannel.java:364)
+	at org.seleniumhq.jetty9.server.HttpConnection.onFillable(HttpConnection.java:260)
+	at org.seleniumhq.jetty9.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:305)
+	at org.seleniumhq.jetty9.io.FillInterest.fillable(FillInterest.java:103)
+	at org.seleniumhq.jetty9.io.ChannelEndPoint$2.run(ChannelEndPoint.java:118)
+	at org.seleniumhq.jetty9.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:333)
+	at org.seleniumhq.jetty9.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:310)
+	at org.seleniumhq.jetty9.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:168)
+	at org.seleniumhq.jetty9.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:126)
+	at org.seleniumhq.jetty9.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:366)
+	at org.seleniumhq.jetty9.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:765)
+	at org.seleniumhq.jetty9.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:683)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO] 2023-07-17 12:12:08,819 [main]  com.zensar.automation.framework.driver.MobileDriver afterSuite - Device has Released098d5077472fcb0e48c81b6840d05cfbfaca1902
+[INFO] 2023-07-17 15:12:57,546 [main]  com.zensar.automation.library.TestPropReader loadAllProperties - Loading all properties in progress..
+[INFO] 2023-07-17 15:12:57,548 [main]  com.zensar.automation.framework.library.PropertyReader loadDefaultProperties - Loading default properties file...
+[DEBUG] 2023-07-17 15:12:57,549 [main]  com.zensar.automation.framework.library.PropertyReader loadDefaultProperties - Default properties file path=.\Default.properties
+[INFO] 2023-07-17 15:12:57,550 [main]  com.zensar.automation.framework.library.PropertyReader loadDefaultProperties - loading completed for Default properties
+[INFO] 2023-07-17 15:12:57,550 [main]  com.zensar.automation.framework.library.PropertyReader loadGameProperties - Loading Test Environment properties file..
+[DEBUG] 2023-07-17 15:12:57,552 [main]  com.zensar.automation.framework.library.PropertyReader loadGameProperties - Test Environment properties file path=./WildCatch\Config\TestEnv.properties
+[INFO] 2023-07-17 15:12:57,553 [main]  com.zensar.automation.framework.library.PropertyReader loadGameProperties - loading completed for Test Environment properties
+[INFO] 2023-07-17 15:12:57,868 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - Automation Execution stared for mobile....
+[INFO] 2023-07-17 15:12:57,868 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - Automation Execution stared for mobile....
+[INFO] 2023-07-17 15:12:57,870 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - Selenium Grid Url :: http://10.120.87.248:4444/wd/hub
+[INFO] 2023-07-17 15:12:57,870 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - Selenium Grid Url :: http://10.120.87.248:4444/wd/hub
+[INFO] 2023-07-17 15:12:57,871 [TestNG-tests-2]  com.zensar.automation.framework.library.Global cfnRootPath - Setting nessary path....
+[INFO] 2023-07-17 15:12:57,871 [TestNG-tests-1]  com.zensar.automation.framework.library.Global cfnRootPath - Setting nessary path....
+[INFO] 2023-07-17 15:12:58,016 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-07-17 15:12:58,016 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-07-17 15:12:58,018 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-07-17 15:12:58,018 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-07-17 15:12:58,020 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-07-17 15:12:58,020 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-07-17 15:12:58,022 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - Run flag found true...
+[INFO] 2023-07-17 15:12:58,022 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - Run flag found true...
+[DEBUG] 2023-07-17 15:12:58,035 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - randomWait :: 22555
+[DEBUG] 2023-07-17 15:13:01,040 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - randomWait :: 10468
+[ERROR] 2023-07-17 15:13:12,562 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - Exception in Mobile Driver
+org.openqa.selenium.SessionNotCreatedException: Unable to create a new remote session. Please check the server log for more details. Original error: Error forwarding the new session cannot find : Capabilities {appium:autoWebview: true, appium:nativeWebTap: true, appium:newCommandTimeout: 600000, appium:showIOSLog: true, appium:showXcodeLog: true, browserName: safari, deviceName: iPhone13PROMAX, devicefarm:authToken: 75c86806dd79464f82346240ed9..., platformName: ios, platformVersion: 16.1, udid: 098d5077472fcb0e48c81b6840d...}
+Command duration or timeout: 780 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50N0099', ip: '10.216.75.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: driver.version: MobileDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50N0099', ip: '10.216.75.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: driver.version: MobileDriver
+	at io.appium.java_client.remote.AppiumCommandExecutor$1.createSession(AppiumCommandExecutor.java:216)
+	at io.appium.java_client.remote.AppiumCommandExecutor.createSession(AppiumCommandExecutor.java:225)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.ios.IOSDriver.execute(IOSDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+	at io.appium.java_client.AppiumDriver.startSession(AppiumDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+	at io.appium.java_client.DefaultGenericMobileDriver.<init>(DefaultGenericMobileDriver.java:37)
+	at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:89)
+	at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:99)
+	at io.appium.java_client.ios.IOSDriver.<init>(IOSDriver.java:90)
+	at com.zensar.automation.framework.driver.MobileDriver.test(MobileDriver.java:265)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:848)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:481)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at io.appium.java_client.remote.AppiumCommandExecutor$1.createSession(AppiumCommandExecutor.java:193)
+	... 36 more
+Caused by: org.openqa.selenium.WebDriverException: Error forwarding the new session cannot find : Capabilities {appium:autoWebview: true, appium:nativeWebTap: true, appium:newCommandTimeout: 600000, appium:showIOSLog: true, appium:showXcodeLog: true, browserName: safari, deviceName: iPhone13PROMAX, devicefarm:authToken: 75c86806dd79464f82346240ed9..., platformName: ios, platformVersion: 16.1, udid: 098d5077472fcb0e48c81b6840d...}
+Command duration or timeout: 780 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50N0099', ip: '10.216.75.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: driver.version: MobileDriver
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.JsonWireProtocolResponse.lambda$errorHandler$0(JsonWireProtocolResponse.java:54)
+	at org.openqa.selenium.remote.HandshakeResponse.lambda$getResponseFunction$0(HandshakeResponse.java:30)
+	at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:126)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.Spliterators$ArraySpliterator.tryAdvance(Spliterators.java:1002)
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:129)
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:527)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:513)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:150)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:647)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:128)
+	... 41 more
+Caused by: org.openqa.grid.common.exception.GridException: Error forwarding the new session cannot find : Capabilities {appium:autoWebview: true, appium:nativeWebTap: true, appium:newCommandTimeout: 600000, appium:showIOSLog: true, appium:showXcodeLog: true, browserName: safari, deviceName: iPhone13PROMAX, devicefarm:authToken: 75c86806dd79464f82346240ed9..., platformName: ios, platformVersion: 16.1, udid: 098d5077472fcb0e48c81b6840d...}
+	at org.openqa.grid.web.servlet.handler.RequestHandler.process(RequestHandler.java:118)
+	at org.openqa.grid.web.servlet.DriverServlet.process(DriverServlet.java:85)
+	at org.openqa.grid.web.servlet.DriverServlet.doPost(DriverServlet.java:69)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.seleniumhq.jetty9.servlet.ServletHolder.handle(ServletHolder.java:865)
+	at org.seleniumhq.jetty9.servlet.ServletHandler.doHandle(ServletHandler.java:535)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.handle(ScopedHandler.java:146)
+	at org.seleniumhq.jetty9.security.SecurityHandler.handle(SecurityHandler.java:548)
+	at org.seleniumhq.jetty9.server.handler.HandlerWrapper.handle(HandlerWrapper.java:132)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:257)
+	at org.seleniumhq.jetty9.server.session.SessionHandler.doHandle(SessionHandler.java:1595)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:255)
+	at org.seleniumhq.jetty9.server.handler.ContextHandler.doHandle(ContextHandler.java:1340)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextScope(ScopedHandler.java:203)
+	at org.seleniumhq.jetty9.servlet.ServletHandler.doScope(ServletHandler.java:473)
+	at org.seleniumhq.jetty9.server.session.SessionHandler.doScope(SessionHandler.java:1564)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextScope(ScopedHandler.java:201)
+	at org.seleniumhq.jetty9.server.handler.ContextHandler.doScope(ContextHandler.java:1242)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.handle(ScopedHandler.java:144)
+	at org.seleniumhq.jetty9.server.handler.HandlerWrapper.handle(HandlerWrapper.java:132)
+	at org.seleniumhq.jetty9.server.Server.handle(Server.java:503)
+	at org.seleniumhq.jetty9.server.HttpChannel.handle(HttpChannel.java:364)
+	at org.seleniumhq.jetty9.server.HttpConnection.onFillable(HttpConnection.java:260)
+	at org.seleniumhq.jetty9.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:305)
+	at org.seleniumhq.jetty9.io.FillInterest.fillable(FillInterest.java:103)
+	at org.seleniumhq.jetty9.io.ChannelEndPoint$2.run(ChannelEndPoint.java:118)
+	at org.seleniumhq.jetty9.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:333)
+	at org.seleniumhq.jetty9.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:310)
+	at org.seleniumhq.jetty9.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:168)
+	at org.seleniumhq.jetty9.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:126)
+	at org.seleniumhq.jetty9.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:366)
+	at org.seleniumhq.jetty9.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:765)
+	at org.seleniumhq.jetty9.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:683)
+	at java.lang.Thread.run(Thread.java:748)
+[ERROR] 2023-07-17 15:13:21,022 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - Exception in Mobile Driver
+org.openqa.selenium.SessionNotCreatedException: Unable to create a new remote session. Please check the server log for more details. Original error: Error forwarding the new session Device is currently busy, please try again later !! : R5CT32TPARB
+Command duration or timeout: 420 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50N0099', ip: '10.216.75.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: driver.version: MobileDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50N0099', ip: '10.216.75.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: driver.version: MobileDriver
+	at io.appium.java_client.remote.AppiumCommandExecutor$1.createSession(AppiumCommandExecutor.java:216)
+	at io.appium.java_client.remote.AppiumCommandExecutor.createSession(AppiumCommandExecutor.java:225)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+	at io.appium.java_client.AppiumDriver.startSession(AppiumDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.<init>(RemoteWebDriver.java:131)
+	at io.appium.java_client.DefaultGenericMobileDriver.<init>(DefaultGenericMobileDriver.java:37)
+	at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:89)
+	at io.appium.java_client.AppiumDriver.<init>(AppiumDriver.java:99)
+	at io.appium.java_client.android.AndroidDriver.<init>(AndroidDriver.java:97)
+	at com.zensar.automation.framework.driver.MobileDriver.test(MobileDriver.java:230)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at org.testng.TestRunner.privateRun(TestRunner.java:848)
+	at org.testng.TestRunner.run(TestRunner.java:621)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:481)
+	at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at io.appium.java_client.remote.AppiumCommandExecutor$1.createSession(AppiumCommandExecutor.java:193)
+	... 36 more
+Caused by: org.openqa.selenium.WebDriverException: Error forwarding the new session Device is currently busy, please try again later !! : R5CT32TPARB
+Command duration or timeout: 420 milliseconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DERIW50N0099', ip: '10.216.75.16', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: driver.version: MobileDriver
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.JsonWireProtocolResponse.lambda$errorHandler$0(JsonWireProtocolResponse.java:54)
+	at org.openqa.selenium.remote.HandshakeResponse.lambda$getResponseFunction$0(HandshakeResponse.java:30)
+	at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:126)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.Spliterators$ArraySpliterator.tryAdvance(Spliterators.java:1002)
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:129)
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:527)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:513)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:150)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:647)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:128)
+	... 41 more
+Caused by: org.openqa.grid.common.exception.GridException: Error forwarding the new session Device is currently busy, please try again later !! : R5CT32TPARB
+	at org.openqa.grid.web.servlet.handler.RequestHandler.process(RequestHandler.java:118)
+	at org.openqa.grid.web.servlet.DriverServlet.process(DriverServlet.java:85)
+	at org.openqa.grid.web.servlet.DriverServlet.doPost(DriverServlet.java:69)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:707)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:790)
+	at org.seleniumhq.jetty9.servlet.ServletHolder.handle(ServletHolder.java:865)
+	at org.seleniumhq.jetty9.servlet.ServletHandler.doHandle(ServletHandler.java:535)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.handle(ScopedHandler.java:146)
+	at org.seleniumhq.jetty9.security.SecurityHandler.handle(SecurityHandler.java:548)
+	at org.seleniumhq.jetty9.server.handler.HandlerWrapper.handle(HandlerWrapper.java:132)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:257)
+	at org.seleniumhq.jetty9.server.session.SessionHandler.doHandle(SessionHandler.java:1595)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextHandle(ScopedHandler.java:255)
+	at org.seleniumhq.jetty9.server.handler.ContextHandler.doHandle(ContextHandler.java:1340)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextScope(ScopedHandler.java:203)
+	at org.seleniumhq.jetty9.servlet.ServletHandler.doScope(ServletHandler.java:473)
+	at org.seleniumhq.jetty9.server.session.SessionHandler.doScope(SessionHandler.java:1564)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.nextScope(ScopedHandler.java:201)
+	at org.seleniumhq.jetty9.server.handler.ContextHandler.doScope(ContextHandler.java:1242)
+	at org.seleniumhq.jetty9.server.handler.ScopedHandler.handle(ScopedHandler.java:144)
+	at org.seleniumhq.jetty9.server.handler.HandlerWrapper.handle(HandlerWrapper.java:132)
+	at org.seleniumhq.jetty9.server.Server.handle(Server.java:503)
+	at org.seleniumhq.jetty9.server.HttpChannel.handle(HttpChannel.java:364)
+	at org.seleniumhq.jetty9.server.HttpConnection.onFillable(HttpConnection.java:260)
+	at org.seleniumhq.jetty9.io.AbstractConnection$ReadCallback.succeeded(AbstractConnection.java:305)
+	at org.seleniumhq.jetty9.io.FillInterest.fillable(FillInterest.java:103)
+	at org.seleniumhq.jetty9.io.ChannelEndPoint$2.run(ChannelEndPoint.java:118)
+	at org.seleniumhq.jetty9.util.thread.strategy.EatWhatYouKill.runTask(EatWhatYouKill.java:333)
+	at org.seleniumhq.jetty9.util.thread.strategy.EatWhatYouKill.doProduce(EatWhatYouKill.java:310)
+	at org.seleniumhq.jetty9.util.thread.strategy.EatWhatYouKill.tryProduce(EatWhatYouKill.java:168)
+	at org.seleniumhq.jetty9.util.thread.strategy.EatWhatYouKill.run(EatWhatYouKill.java:126)
+	at org.seleniumhq.jetty9.util.thread.ReservedThreadExecutor$ReservedThread.run(ReservedThreadExecutor.java:366)
+	at org.seleniumhq.jetty9.util.thread.QueuedThreadPool.runJob(QueuedThreadPool.java:765)
+	at org.seleniumhq.jetty9.util.thread.QueuedThreadPool$2.run(QueuedThreadPool.java:683)
+	at java.lang.Thread.run(Thread.java:748)
+[INFO] 2023-07-17 15:13:21,031 [main]  com.zensar.automation.framework.driver.MobileDriver afterSuite - Device has Released098d5077472fcb0e48c81b6840d05cfbfaca1902
+[INFO] 2023-07-17 15:16:23,468 [main]  com.zensar.automation.library.TestPropReader loadAllProperties - Loading all properties in progress..
+[INFO] 2023-07-17 15:16:23,470 [main]  com.zensar.automation.framework.library.PropertyReader loadDefaultProperties - Loading default properties file...
+[DEBUG] 2023-07-17 15:16:23,471 [main]  com.zensar.automation.framework.library.PropertyReader loadDefaultProperties - Default properties file path=.\Default.properties
+[INFO] 2023-07-17 15:16:23,472 [main]  com.zensar.automation.framework.library.PropertyReader loadDefaultProperties - loading completed for Default properties
+[INFO] 2023-07-17 15:16:23,472 [main]  com.zensar.automation.framework.library.PropertyReader loadGameProperties - Loading Test Environment properties file..
+[DEBUG] 2023-07-17 15:16:23,473 [main]  com.zensar.automation.framework.library.PropertyReader loadGameProperties - Test Environment properties file path=./WildCatch\Config\TestEnv.properties
+[INFO] 2023-07-17 15:16:23,474 [main]  com.zensar.automation.framework.library.PropertyReader loadGameProperties - loading completed for Test Environment properties
+[INFO] 2023-07-17 15:16:23,781 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - Automation Execution stared for mobile....
+[INFO] 2023-07-17 15:16:23,781 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - Automation Execution stared for mobile....
+[INFO] 2023-07-17 15:16:23,783 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - Selenium Grid Url :: http://10.120.87.248:4444/wd/hub
+[INFO] 2023-07-17 15:16:23,783 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - Selenium Grid Url :: http://10.120.87.248:4444/wd/hub
+[INFO] 2023-07-17 15:16:23,784 [TestNG-tests-2]  com.zensar.automation.framework.library.Global cfnRootPath - Setting nessary path....
+[INFO] 2023-07-17 15:16:23,784 [TestNG-tests-1]  com.zensar.automation.framework.library.Global cfnRootPath - Setting nessary path....
+[INFO] 2023-07-17 15:16:23,919 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-07-17 15:16:23,920 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-07-17 15:16:23,920 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-07-17 15:16:23,921 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-07-17 15:16:23,922 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-07-17 15:16:23,922 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - About to release device as no script is marked as run in Suit.xml
+[INFO] 2023-07-17 15:16:23,924 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - Run flag found true...
+[INFO] 2023-07-17 15:16:23,924 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - Run flag found true...
+[DEBUG] 2023-07-17 15:16:23,937 [TestNG-tests-1]  com.zensar.automation.framework.driver.MobileDriver test - randomWait :: 13525
+[DEBUG] 2023-07-17 15:16:26,947 [TestNG-tests-2]  com.zensar.automation.framework.driver.MobileDriver test - randomWait :: 24221
